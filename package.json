@@ -1,0 +1,30 @@
+{
+  "name": "links",
+  "version": "1.0.0",
+  "description": "A Beautiful Jekyll Theme For Links",
+  "main": "postcss.config.js",
+  "dependencies": {
+    "tailwindcss": "^2.2.4",
+    "jekyll": "^3.0.0-beta1"
+  },
+  "devDependencies": {
+    "jekyll": "^3.0.0-beta1",
+    "nodemon": "^2.0.7",
+    "tailwindcss": "^2.2.4"
+  },
+  "scripts": {
+    "npm-jekyll-s": "bundle exec jekyll s -l -o",
+    "npm-bundle-install": "bundle install && npm run npm-jekyll-s",
+    "npm-install": "npm install && npm run npm-bundle-install",
+    "npm-up": "nodemon --exec npm run npm-install",
+    "start": "npm run npm-up"
+  },
+  "keywords": [
+    "links",
+    "devs",
+    "jekyll",
+    "theme"
+  ],
+  "author": "Harsh",
+  "license": "ISC"
+}

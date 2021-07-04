@@ -1,0 +1,18 @@
+{% for link in site.links %}
+
+{% if link.URL %}
+
+<a class="flex" href="{{link.URL}}{% if link.Username %}/{{link.Username}}{% endif %}" target="_blank"
+        rel="noopener noreferrer">
+        <button id="links"
+                class="links lg:m-5 md:5 sm:3.5 text-white hover:opacity-75 font-semibold my-2.5 mx-5 px-5 py-1.5 rounded-md w-full place-content-center h-14 w-32"
+                style="{% if link.Color %}background-color: {{link.Color}};-webkit-box-shadow: 0px 10px 25px 0px {{link.Color}}80;-moz-box-shadow: 0px 10px 25px 0px {{link.Color}}80;box-shadow: 0px 10px 25px 0px {{link.Color}}80;{% else %}color: white; border: 0.10rem solid #ffffff; -webkit-box-shadow: 0px 10px 25px 0px #ffffff80;-moz-box-shadow: 0px 10px 25px 0px #ffffff80;box-shadow: 0px 10px 25px 0px #ffffff80;{% endif %}">
+                <span id="link-content" {% if link.Text_Color %}style="color: {{link.Text_Color}};"{% endif %}>
+                        <i class="{{link.Icon-Class}}"></i><span class="mx-1.5 align-middle">{{link.Name}}</span>
+                </span>
+        </button>
+</a>
+
+{% endif %}
+
+{% endfor %}

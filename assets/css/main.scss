@@ -1,0 +1,45 @@
+---
+---
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins');
+@import url(https://cdnjs.cloudflare.com/ajax/libs/tailwindcss/0.0.0-5a9c68d/base.css);
+@import url(https://cdnjs.cloudflare.com/ajax/libs/tailwindcss/0.0.0-5a9c68d/components.min.css);
+@import url(https://cdnjs.cloudflare.com/ajax/libs/tailwindcss/0.0.0-5a9c68d/utilities.min.css);
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body,
+html {
+    a{
+        outline: none;
+    }
+    font-family: 'Poppins', sans-serif;
+    #image {
+        transition: all 0.5s ease;
+        background-position: center;
+        &:hover {
+            transform: scale(1.05);
+        }
+        ::after {
+            background-color: black;
+        }
+    }
+    .links {
+        transition: all ease 0.25s;
+        &:hover {
+            transform: scale(1.05);
+        }
+        text-shadow: 0 0.05rem 0.25rem rgba(0, 0, 0, 0.05);
+        &:hover {
+            text-shadow: 0 0.15rem 0.50rem rgba(0, 0, 0, 0.15);
+        }
+        .fa-hand-paper{
+            -moz-transform: scale(-1, 1) rotate(45deg);
+            -webkit-transform: scale(-1, 1) rotate(45deg);
+            -o-transform: scale(-1, 1) rotate(45deg);
+            -ms-transform: scale(-1, 1) rotate(45deg);
+            transform: scale(-1, 1) rotate(45deg);
+        }
+    }
+}
