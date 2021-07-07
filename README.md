@@ -6,10 +6,6 @@ A Beautiful Jekyll Theme For Links
 
 #### Checkout the [Demo Here](https://harsh98trivedi.github.io/links)
 
-![GitHub search hit counter](https://img.shields.io/github/search/harsh98trivedi/Links/Links?style=social)
-![GitHub repo file count](https://img.shields.io/github/directory-file-count/harsh98trivedi/Links?style=social)
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/harsh98trivedi/Links?style=social)
-
 ---
 
 ## Installation 
@@ -21,7 +17,6 @@ A Beautiful Jekyll Theme For Links
 
 ### Up and Running
 - Fork this [Repository](https://github.com/harsh98trivedi/Links)<br>
-    ![GitHub forks](https://img.shields.io/github/forks/harsh98trivedi/Links?style=social)
 - Edit the **_config.yml**
 - Fill the available details accordingly
 - Commit the changes
