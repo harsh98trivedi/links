@@ -66,7 +66,7 @@ links:
 
     # EMAIL
   - Name: Email
-    URL: 'mailto:harsh98trivedi@gmail.com'
+    URL: 'mailto:harsh98trivedi@rediffmail.com'
     Icon-Class: fas fa-envelope
     Color: '#e17055'
     Text_Color: '#ffffff'
@@ -82,7 +82,7 @@ links:
     # VIMEO
   - Name: Vimeo
     URL: 'https://vimeo.com'
-    Username: techetarian
+    Username: harshtrivedi
     Icon-Class: fab fa-vimeo-v
     Color: '#1ab7ea'
     Text_Color: '#ffffff'
@@ -123,13 +123,13 @@ links:
     Text_Color: '#000000'
     Icon-Class: fab fa-snapchat-ghost
 
-    # DISCORD
-  - Name: Discord
-    URL: 'https://discord.gg'
-    Username: 
-    Icon-Class: fab fa-discord
-    Color: '#5865F2'
-    Text_Color: '#ffffff'
+  #   # DISCORD
+  # - Name: Discord
+  #   URL: 'https://discord.gg'
+  #   Username: 
+  #   Icon-Class: fab fa-discord
+  #   Color: '#5865F2'
+  #   Text_Color: '#ffffff'
 
     # PINTEREST
   - Name: Pinterest
@@ -145,12 +145,12 @@ links:
     Color: '#1769ff'
     Icon-Class: fab fa-behance
 
-    # DRIBBBLE
-  - Name: Dribbble
-    URL: https://dribbble.com
-    Username: 
-    Color: '#ea4c89'
-    Icon-Class: fab fa-dribbble
+  #   # DRIBBBLE
+  # - Name: Dribbble
+  #   URL: https://dribbble.com
+  #   Username: 
+  #   Color: '#ea4c89'
+  #   Icon-Class: fab fa-dribbble
 
     # DEVIANTART
   - Name: DeviantArt
@@ -182,12 +182,12 @@ links:
     Color: '#FE5000'
     Icon-Class: fab fa-soundcloud
 
-     # TIKTOK
-  - Name: TikTok
-    URL: https://www.tiktok.com
-    Username: 
-    Color: '#FE2C55'
-    Icon-Class: fab fa-tiktok
+  #    # TIKTOK
+  # - Name: TikTok
+  #   URL: https://www.tiktok.com
+  #   Username: 
+  #   Color: '#FE2C55'
+  #   Icon-Class: fab fa-tiktok
 
     # MEDIUM
   - Name: Medium
@@ -205,12 +205,12 @@ links:
     Color: '#ffffff'
     Text_Color: '#000000'
 
-    # TUMBLR
-  - Name: Tumblr
-    URL: https://www.tumblr.com
-    Username: 
-    Color: '#35465c'
-    Icon-Class: fab fa-tumblr
+  #   # TUMBLR
+  # - Name: Tumblr
+  #   URL: https://www.tumblr.com
+  #   Username: 
+  #   Color: '#35465c'
+  #   Icon-Class: fab fa-tumblr
 
     # CUSTOM LINK
   - Name: Blog
