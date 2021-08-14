@@ -101,12 +101,12 @@ links:
     Color: '#FF4500'
     Icon-Class: fab fa-reddit-alien
 
-    # WHATSAPP
-  - Name: WhatsApp
-    URL: https://wa.me
-    Username: '+1123456789'
-    Color: '#25d366'
-    Icon-Class: fab fa-whatsapp
+  #   # WHATSAPP
+  # - Name: WhatsApp
+  #   URL: https://wa.me
+  #   Username: '+1123456789'
+  #   Color: '#25d366'
+  #   Icon-Class: fab fa-whatsapp
 
     # TELEGRAM
   - Name: Telegram
