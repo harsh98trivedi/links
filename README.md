@@ -44,6 +44,7 @@ npm start
 - [Cover Image](https://source.unsplash.com/)
 - [Font Awesome](https://fontawesome.com/)
 - [Poppins Font](https://fonts.google.com/specimen/Poppins)
+- [Images.weserv.nl](https://images.weserv.nl/)
 
 ---
 
