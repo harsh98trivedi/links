@@ -41,7 +41,7 @@ npm start
 ---
 
 ## Content Credits
-- [Cover Image](https://images.unsplash.com/photo-1610209204869-4822c0a980da)
+- [Cover Image](https://source.unsplash.com/)
 - [Font Awesome](https://fontawesome.com/)
 - [Poppins Font](https://fonts.google.com/specimen/Poppins)
 
