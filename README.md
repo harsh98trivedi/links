@@ -21,7 +21,7 @@
 
 ### Get Up and Running
 
-1. Fork this repo - [fork](https://github.com/harsh98trivedi/links/fork)
+1. Fork this repo - [fork](https://github.com/harsh98trivedi/links/fork).
 1. Edit the `_config.yml` file.
 1. Fill in your appropriate values.
 1. Commit the changes.
