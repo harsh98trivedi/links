@@ -1,10 +1,10 @@
-# [Links](https://github.com/harsh98trivedi/Links)
+# Links
 > A Beautiful Jekyll Theme For Links
 
-![Links](/assets/images/links.jpg)
+![Links sample image](/assets/images/links.jpg "Sample image")
 
 #### Checkout the [Demo Here](https://harsh98trivedi.github.io/links)
-<br>
+
 <a href="https://vimeo.com/587253271">
   <img src="https://i.imgur.com/s7vdI7T.png"/>
 </a>
@@ -28,17 +28,13 @@
 
 ### Want to set this up **locally**?
 
-- Clone this **Repository** using **Git**
-    Replace `[USERNAME]` with your own GitHub username.
-    ``` sh
-    git clone https://github.com/[USERNAME]/links
-    ```
-- Go to the project directory:
+- Clone this **repository** using **Git**. Replace `[USERNAME]` with your own GitHub username.
     ```sh
+    git clone https://github.com/[USERNAME]/links
     cd links
     ```
-- Install **Links** with **npm**:
-    ``` bash
+- Install gems and NPM packages.
+    ```sh
     npm start
     ```
 
@@ -53,8 +49,8 @@
 
 ---
 
-Special Thanks to [Rohit Motwani](https://github.com/rohittm) for configuring **Nodemon** with his and make it up and running with his geeky mind and [Hitanshu Sahu](https://www.behance.net/phantomcluster) for improving the design with his awesome UI skills.
+Special thanks to [Rohit Motwani](https://github.com/rohittm) for configuring **Nodemon** with his and make it up and running with his geeky mind and [Hitanshu Sahu](https://www.behance.net/phantomcluster) for improving the design with his awesome UI skills.
 
 ## License
 
-The contents of this repository are licensed under the [GNU General Public License v2.0](https://github.com/harsh98trivedi/Links/blob/master/LICENSE)
+The contents of this repository are licensed under the [GNU General Public License v2.0](/LICENSE).
