@@ -213,7 +213,7 @@ links:
   #   Icon-Class: fab fa-tumblr
 
   # BUY ME A COFFEE
-  - Name: Buy Me a Coffee
+  - Name: BuyMeACoffee
     URL: 'https://buymeacoffee.com'
     Username: harshtrivedi
     Icon-Class: fas fa-mug-hot
