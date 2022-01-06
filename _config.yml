@@ -212,6 +212,14 @@ links:
   #   Color: '#35465c'
   #   Icon-Class: fab fa-tumblr
 
+  # BUY ME A COFFEE
+  - Name: Buy Me a Coffee
+    URL: 'https://buymeacoffee.com'
+    Username: harshtrivedi
+    Icon-Class: fas fa-mug-hot
+    Color: '#FFDD00'
+    Text_Color: '#000000'
+
     # CUSTOM LINK
   - Name: Blog
     URL: https://harsh98trivedi.github.io/blog
