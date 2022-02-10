@@ -40,7 +40,6 @@ cd links
 ``` bash
 npm start
 ```
-
 ---
 
 ## Content Credits
@@ -56,3 +55,5 @@ Special Thanks to [Rohit Motwani](https://github.com/rohittm) for configuring **
 ### License
 
 The contents of this repository are licensed under the [GNU General Public License v2.0](https://github.com/harsh98trivedi/Links/blob/master/LICENSE)
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/2a02bd54-cdfc-4a4f-8ab6-59e45edddad8/deploy-status)](https://app.netlify.com/sites/htlink/deploys)
