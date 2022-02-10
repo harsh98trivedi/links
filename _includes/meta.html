@@ -6,5 +6,5 @@
 <meta content='#000000' name='theme-color'/>
 <title>{{site.name}} | Links</title>
 <link rel="shortcut icon" href="https://images.weserv.nl/?url={{site.Image_URL}}&h=300&w=300&fit=cover&mask=circle&maxage=7d" onError="this.onerror=null;this.src='{% for link in site.links %}{% if link.Username and link.Name == 'GitHub' %}{{link.URL}}/{{link.Username}}.png{% endif %}{% endfor %}';" type="image/x-icon">
-<link rel="stylesheet" href="{{site.baseurl}}/assets/css/main.css">
+<link rel="stylesheet" href="{{ '/assets/css/main.css' | absolute_url}}">
 <script src="https://kit.fontawesome.com/609f7f6148.js" crossorigin="anonymous"></script>
