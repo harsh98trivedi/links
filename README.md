@@ -26,6 +26,9 @@ A Beautiful Jekyll Theme For Links
 - Fill the available details accordingly
 - Commit the changes
 
+> Links is also [**Netlify**](https://www.netlify.com/) ready. :white_check_mark: <br>
+You can checkout the netlify version up and running [**here**](https://htlink.netlify.app/).
+
 ### Want to set this up **locally**?
 - Clone this **Repository** using **Git**<br>
     > Kindly Change [USERNAME] with your own GitHub UserName
