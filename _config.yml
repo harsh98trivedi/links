@@ -257,7 +257,7 @@ exclude:
   - Icon
 
 # Base URL
-baseurl: /links
+# baseurl: /links
 
 # Default Markdown Engine
 markdown: kramdown
