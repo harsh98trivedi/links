@@ -53,7 +53,7 @@ npm start
 
 ---
 
-Special Thanks to [Rohit Motwani](https://github.com/rohittm) for configuring **Nodemon** with his and make it up and running with his geeky mind and [Hitanshu Sahu](https://www.behance.net/phantomcluster) for improving the design with his awesome UI skills.
+Special Thanks to [Rohit Motwani](https://github.com/rohittm) for configuring **Nodemon** and making it up and running with his geeky mind and [Hitanshu Sahu](https://www.behance.net/phantomcluster) for improving the design with his awesome UI skills.
 
 ### License
 
