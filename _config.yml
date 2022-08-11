@@ -127,7 +127,7 @@ links:
   - Name: Steam
     URL: https://steamcommunity.com/id
     Username: 'harshtrivedi'
-    Color: '#1b2838'
+    Color: '#66c0f4'
     Text_Color: '#000000'
     Icon-Class: fa-brands fa-steam-symbol
 
