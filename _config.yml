@@ -129,7 +129,7 @@ links:
     Username: 'harshtrivedi'
     Color: '#1b2838'
     Text_Color: '#000000'
-    Icon-Class: fa-brands fa-steam
+    Icon-Class: fa-brands fa-steam-symbol
 
   #   # DISCORD
   # - Name: Discord
