@@ -123,6 +123,14 @@ links:
     Text_Color: '#000000'
     Icon-Class: fab fa-snapchat-ghost
 
+    # STEAM
+  - Name: Steam
+    URL: https://steamcommunity.com/id
+    Username: 'harshtrivedi'
+    Color: '#1b2838'
+    Text_Color: '#000000'
+    Icon-Class: fa-brands fa-steam
+
   #   # DISCORD
   # - Name: Discord
   #   URL: 'https://discord.gg'
