@@ -31,7 +31,7 @@ links:
 
     # TWITTER
   - Name: Twitter
-    URL: https://twitter.com
+    URL: https://twitter.com/intent/user?screen_name=
     Username: harsh98trivedi
     Color: '#1DA1F2'
     Icon-Class: fab fa-twitter
