@@ -5,7 +5,7 @@ A Beautiful Jekyll Theme For Links
 ![Links](/assets/images/links.jpg)
 
 ### Screenshot
-![Screenshot](https://i.imgur.com/16FK7RO.png)
+![Screenshot](https://i.imgur.com/9uJrd9k.png)
 
 #### Checkout the [Demo Here](https://harsh98trivedi.github.io/links)
 <br>
