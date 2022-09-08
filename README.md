@@ -48,7 +48,7 @@ npm start
 ### Want to set this up on **Docker**?
 - Clone this **Repository** using **Git**<br>
 ``` git
-git clone https://harsh98trivedi/Links
+git clone https://github.com/harsh98trivedi/links.git
 ```
 - Go to the project directory
 ```bash
@@ -84,3 +84,4 @@ Special Thanks to [Rohit Motwani](https://github.com/rohittm) for configuring **
 The contents of this repository are licensed under the [GNU General Public License v2.0](https://github.com/harsh98trivedi/Links/blob/master/LICENSE)
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/2a02bd54-cdfc-4a4f-8ab6-59e45edddad8/deploy-status)](https://app.netlify.com/sites/htlink/deploys)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
