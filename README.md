@@ -71,7 +71,6 @@ docker run -d -p 4000:4000 -v /absolute/path/to/_config.yml:/app/_config.yml --n
 ```bash
 docker stop links && docker rm links && docker run -d -p 4000:4000 -v /absolute/path/to/_config.yml:/app/_config.yml --name links links
 ```
-```
 
 ## Content Credits
 - [Cover Image](https://source.unsplash.com/)
