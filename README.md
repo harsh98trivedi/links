@@ -63,11 +63,15 @@ docker build -t links .
 ```
 - Run the **Docker** container
 ```bash
-docker run -d -p 4000:4000 --name links links
+docker run -d -p 4000:4000 -v /absolute/path/to/_config.yml:/app/_config.yml --name links links
 ```
 - Open the browser and go to **links-ip:4000**. You should see your **links** site up and running!
 
-> Note: Whenever you make changes to the **_config.yml** file, you need to rebuild the **Docker** image and recreate the container to see the changes.
+> Note: Whenever you make changes to the **_config.yml** file, you need to stop and remove the **Docker** container, then recreate it:
+```bash
+docker stop links && docker rm links && docker run -d -p 4000:4000 -v /absolute/path/to/_config.yml:/app/_config.yml --name links links
+```
+```
 
 ## Content Credits
 - [Cover Image](https://source.unsplash.com/)
