@@ -77,7 +77,7 @@ docker run -d -p 4000:4000 --name links links
 
 ---
 
-Special Thanks to [Rohit Motwani](https://github.com/rohittm) for configuring **Nodemon** and making it up and running with his geeky mind and [Hitanshu Sahu](https://www.behance.net/phantomcluster) for improving the design with his awesome UI skills.
+Special Thanks to [Rohit Motwani](https://github.com/rohittm) for configuring **Nodemon** and making it up and running with his geeky mind, [Hitanshu Sahu](https://www.behance.net/phantomcluster) for improving the design with his awesome UI skills and [Nelson Dane](https://github.com/NelsonDane) for making this compatible with [Docker](https://docker.com/)
 
 ### License
 
