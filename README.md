@@ -2,7 +2,7 @@
 
 A Beautiful Jekyll Theme For Links
 
-![Links](/assets/images/links.jpg)
+![Links](https://raw.githubusercontent.com/harsh98trivedi/links/master/assets/images/links.jpg)
 
 ### Screenshot
 ![Screenshot](https://i.imgur.com/9uJrd9k.png)
@@ -26,7 +26,7 @@ A Beautiful Jekyll Theme For Links
 - Fill the available details accordingly
 - Commit the changes
 
-> Links is also [**Netlify**](https://www.netlify.com/) ready. :white_check_mark: <br>
+> Links is also [**Netlify**](https://www.netlify.com/) ready. ✅ <br>
 You can checkout the netlify version up and running [**here**](https://htlink.netlify.app/).
 
 ### Want to set this up **locally**?
