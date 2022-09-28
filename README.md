@@ -46,30 +46,18 @@ npm start
 ---
 
 ### Want to set this up on **Docker**?
-- Clone this **Repository** using **Git**<br>
-``` git
-git clone https://github.com/harsh98trivedi/links.git
-```
-- Go to the project directory
+View repository on [Docker Hub](https://hub.docker.com/r/harsh98trivedi/links)
+- Edit your **_config.yml**
+- Fill in the available details accordingly
+- Run the **Docker** container:
 ```bash
-cd links
-```
-- Edit the **_config.yml**
-- Fill the available details accordingly
-- Commit the changes
-- Build the **Docker** image
-```bash
-docker build -t links .
-```
-- Run the **Docker** container
-```bash
-docker run -d -p 4000:4000 -v /absolute/path/to/_config.yml:/app/_config.yml --name links links
+docker run -d -p 4000:4000 -v /absolute/path/to/_config.yml:/app/_config.yml --name links harsh98trivedi/links:latest
 ```
 - Open the browser and go to **links-ip:4000**. You should see your **links** site up and running!
 
 > Note: Whenever you make changes to the **_config.yml** file, you need to stop and remove the **Docker** container, then recreate it:
 ```bash
-docker stop links && docker rm links && docker run -d -p 4000:4000 -v /absolute/path/to/_config.yml:/app/_config.yml --name links links
+docker stop links && docker rm links && docker run -d -p 4000:4000 -v /absolute/path/to/_config.yml:/app/_config.yml --name links harsh98trivedi/links:latest
 ```
 
 ## Content Credits
