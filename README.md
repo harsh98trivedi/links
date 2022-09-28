@@ -7,8 +7,8 @@ A Beautiful Jekyll Theme For Links
 ### Screenshot
 ![Screenshot](https://i.imgur.com/9uJrd9k.png)
 
-#### Checkout the [Demo Here](https://harsh98trivedi.github.io/links)
-<br>
+### Checkout the [Demo Here](https://harsh98trivedi.github.io/links)
+
 <a href="https://youtu.be/2J2_2gsCjtk"><img src="https://i.imgur.com/s7vdI7T.png"/></a>
 
 ---
