@@ -36,12 +36,12 @@ links:
     Color: '#1DA1F2'
     Icon-Class: fab fa-twitter
 
-    # CLUBHOUSE
-  # - Name: Clubhouse
-  #   URL: https://www.clubhouse.com
-  #   Username: '@harsh98trivedi'
-  #   Color: '#f1c40f'
-  #   Icon-Class: fas fa-hand-paper -mt-0.5
+    # MASTODON 
+  - Name: Mastodon
+    URL: https://mas.to
+    Username: '@ianad'
+    Color: '#563ACC'
+    Icon-Class: fab fa-mastodon
     
     # LINKEDIN
   - Name: LinkedIn
@@ -49,6 +49,13 @@ links:
     Username: ianad
     Color: '#2867B2'
     Icon-Class: fab fa-linkedin-in
+
+    # CLUBHOUSE
+  - Name: Clubhouse
+    URL: https://www.clubhouse.com
+    Username: '@ian-ad'
+    Color: '#f1c40f'
+    Icon-Class: fas fa-hand-paper -mt-0.5
 
     # YOUTUBE
   # - Name: YouTube
