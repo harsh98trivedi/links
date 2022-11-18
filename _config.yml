@@ -50,6 +50,20 @@ links:
     Color: '#2867B2'
     Icon-Class: fab fa-linkedin-in
 
+    # GITHUB
+  - Name: GitHub
+    URL: http://github.com
+    Username: ianad
+    Color: '#6e5494'
+    Icon-Class: fab fa-github
+    
+    # KEYBASE
+  - Name: Keybase
+    URL: https://keybase.io
+    Username: ianad
+    Color: '#ED783A'
+    Icon-Class: fab fa-keybase
+
     # CLUBHOUSE
   - Name: Clubhouse
     URL: https://www.clubhouse.com
@@ -63,13 +77,6 @@ links:
   #   Username: UCS3zvA_2r1iGT7MB3NVCGAw
   #   Color: '#ff0000'
   #   Icon-Class: fab fa-youtube
-
-    # GITHUB
-  - Name: GitHub
-    URL: http://github.com
-    Username: ianad
-    Color: '#6e5494'
-    Icon-Class: fab fa-github
 
     # EMAIL
   - Name: Email
