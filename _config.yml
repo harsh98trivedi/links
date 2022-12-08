@@ -39,7 +39,7 @@ links:
   - Name: Mastodon
     URL: https://hachyderm.io
     Username: '@Derminator'
-    Color: '#1DA1F2'
+    Color: '#595aff'
     Icon-Class: fab fa-mastodon
 
   #   # CLUBHOUSE
