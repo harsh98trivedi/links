@@ -1,5 +1,5 @@
 # YOUR NAME OR TITLE OF YOUR SITE
-name: Dermot Canniffe - LinkShrub
+name: Dermot Canniffe - LinkBush
 # YOUR BRAND/PERSONAL TAGLINE
 tagline: How to Get in Touch With Me or See the Stuff I put into the world
 
@@ -235,9 +235,9 @@ links:
 #Text_Color: '#000000'
 
     # CUSTOM LINK
-  - Name: Mastodon
-    URL: https://hachyderm.io/@derminator
-    Icon-Class: fas fa-link
+  - Name: Calendly
+    URL: https://calendly.com/dermotcanniffe/30min?back=1
+    Icon-Class: fas fa-calendly
     Color: '#ffb142'
     Text_Color: '#ffffff'
 
