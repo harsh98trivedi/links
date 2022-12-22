@@ -36,6 +36,13 @@ links:
     Color: '#1DA1F2'
     Icon-Class: fab fa-twitter
 
+    # Cal.com
+  - Name: Cal.com
+    URL: https://cal.com
+    Username: harsh98trivedi
+    Color: '#888888'
+    Icon-Class: fa-solid fa-calendar-days
+
     # CLUBHOUSE
   - Name: Clubhouse
     URL: https://www.clubhouse.com
