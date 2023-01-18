@@ -1,6 +1,6 @@
 runtime: ruby
 
-instance_class: F4_1G
+instance_class: F1
 
 service: default
 
