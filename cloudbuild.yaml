@@ -1,5 +1,5 @@
 steps:
 - name: 'gcr.io/cloud-builders/docker'
-  args: ['build', '-t', 'us-docker.pkg.dev/andrew-ku-links/gcr.io/links:latest', '.']
+  args: ['build', '-t', 'gcr.io/andrew-ku-links/links:latest', '.']
 - name: 'gcr.io/cloud-builders/gcloud'
   args: ['app', 'deploy', '--image-url=us-docker.pkg.dev/andrew-ku-links/gcr.io/links:latest']
