@@ -5,3 +5,7 @@ instance_class: F4_1G
 service: default
 
 env: flex
+
+network:
+  forwarded_ports:
+    - 4000/tcp
