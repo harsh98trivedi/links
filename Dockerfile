@@ -1,5 +1,5 @@
 # Use image with ruby, Node.js, npm, and yarn
-FROM timbru31/ruby-node:2.7
+FROM timbru31/ruby-node:3.1
 
 # Grab dependencies
 WORKDIR /app
