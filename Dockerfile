@@ -13,4 +13,4 @@ RUN bundle add webrick
 EXPOSE 4000
 
 # Start jekyll server
-CMD ["bundle", "exec", "jekyll", "s", "-l", "-o", "-H", "0.0.0.0"]
+CMD ["bundle", "exec", "jekyll", "s", "-o", "-H", "0.0.0.0"]
