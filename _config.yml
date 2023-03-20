@@ -197,12 +197,12 @@ links:
     Color: '#FE5000'
     Icon-Class: fab fa-soundcloud
 
-  #    # TIKTOK
-  # - Name: TikTok
-  #   URL: https://www.tiktok.com
-  #   Username: 
-  #   Color: '#FE2C55'
-  #   Icon-Class: fab fa-tiktok
+    # TIKTOK
+  - Name: TikTok
+  - URL: https://www.tiktok.com
+  - Username: 
+  - Color: '#FE2C55'
+  - Icon-Class: fab fa-tiktok
 
     # MEDIUM
   - Name: Medium
