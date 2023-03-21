@@ -197,6 +197,12 @@ links:
     Color: '#FE5000'
     Icon-Class: fab fa-soundcloud
 
+  - Name: Skype
+    URL: https://join.skype.com/invite/e6vMrfsYKn9e
+    Icon-Class: fa-brands fa-skype
+    Color: '#00aff0'
+    Text_Color: '#ffffff'
+
   #    # TIKTOK
   # - Name: TikTok
   #   URL: https://www.tiktok.com
