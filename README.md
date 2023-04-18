@@ -22,7 +22,7 @@ A Beautiful Jekyll Theme For Links
 
 ### Up and Running
 - Fork this [Repository](https://github.com/harsh98trivedi/Links)<br>
-- Edit the **_config.yml**
+- Edit the **_config.yml** in the **config** directory
 - Fill the available details accordingly
 - Commit the changes
 
@@ -40,25 +40,41 @@ git clone https://github.com/[USERNAME]/Links
 cd links
 ```
 - Install **Links** with **npm**
-``` bash
-npm start
+```bash
+npm install
 ```
+- Run the **Jekyll** server
+```bash
+bundle exec jekyll serve --config config/_config.yml
+```
+- Open the browser and go to **http://localhost:4000**. You should see your **links** site up and running!
 ---
 
 ### Want to set this up on **Docker**?
 View repository on [Docker Hub](https://hub.docker.com/r/harsh98trivedi/links)
-- Edit your **_config.yml**
-- Fill in the available details accordingly
-- Run the **Docker** container:
-```bash
-docker run -d -p 4000:4000 -v /absolute/path/to/_config.yml:/app/_config.yml --name links harsh98trivedi/links:latest
-```
-- Open the browser and go to **links-ip:4000**. You should see your **links** site up and running!
 
-> Note: Whenever you make changes to the **_config.yml** file, you need to stop and remove the **Docker** container, then recreate it:
+We have a premade **Docker Compose** file for you to get started, all you need to do is:
+- Edit the **_config.yml** in the **config** directory
+- Fill in the available details accordingly
+- Run the **Docker** container using **Docker Compose**:
 ```bash
-docker stop links && docker rm links && docker run -d -p 4000:4000 -v /absolute/path/to/_config.yml:/app/_config.yml --name links harsh98trivedi/links:latest
+docker compose up -d
 ```
+- Open the browser and go to **http://localhost:4000**. You should see your **links** site up and running!
+
+> Note: Whenever you make changes to the **_config.yml** file, you need to restart the container for the changes to take effect. You can do so by running:
+```bash
+docker restart links
+```
+If you wish to build the image yourself, uncomment the **build** line in the **docker-compose.yml** file and comment out the **image** line. Then run the following command:
+```bash
+docker compose build
+```
+Then run the container using:
+```bash
+docker compose up -d
+```
+---
 
 ## Content Credits
 - [Cover Image](https://source.unsplash.com/)

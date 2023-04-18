@@ -1,0 +1,11 @@
+version: "3.7"
+services:
+  links:
+    container_name: links
+    # build: . # Uncomment this line and comment the image line below to build the image locally
+    image: harsh98trivedi/links:latest
+    volumes:
+      - ./config:/app/config
+    restart: unless-stopped
+    ports:
+      - 4000:4000
