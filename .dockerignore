@@ -4,5 +4,3 @@
 .gitignore
 .dockerignore
 README.md
-config/
-docker-compose.yml

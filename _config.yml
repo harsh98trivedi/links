@@ -265,17 +265,17 @@ compress_html:
 
 # Exclude
 exclude:
-  - ../.sass-cache/
-  - ../.jekyll-cache/
-  - ../gemfiles/
-  - ../Gemfile
-  - ../Gemfile.lock
-  - ../node_modules/
-  - ../vendor/bundle/
-  - ../vendor/cache/
-  - ../vendor/gems/
-  - ../vendor/ruby/
-  - ../Icon
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - Icon
 
 # Base URL
 # baseurl: /links
