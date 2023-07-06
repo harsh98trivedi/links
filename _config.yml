@@ -40,7 +40,7 @@ links:
   - Name: Threads
     URL: https://threads.net/
     Username: harsh98trivedi
-    Color: '#00000'
+    Color: '#000000'
     Icon-Class: fa-solid fa-at
     Text_Color: '#ffffff'
 
