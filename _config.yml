@@ -41,7 +41,7 @@ links:
     URL: https://threads.net/
     Username: harsh98trivedi
     Color: '#00000'
-    Icon-Class: fab fa-twitter
+    Icon-Class: fa-solid fa-at
     Text_Color: '#ffffff'
 
     # CLUBHOUSE
