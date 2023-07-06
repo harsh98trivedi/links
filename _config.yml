@@ -36,12 +36,13 @@ links:
     Color: '#1DA1F2'
     Icon-Class: fab fa-twitter
 
-    # Cal.com
-  - Name: Cal.com
-    URL: https://cal.com
-    Username: harshtrivedi
-    Color: '#232323'
-    Icon-Class: fa fa-calendar-check
+     # THREADS.NET
+  - Name: Threads
+    URL: https://threads.net/
+    Username: harsh98trivedi
+    Color: '#00000'
+    Icon-Class: fab fa-twitter
+    Text_Color: '#ffffff'
 
     # CLUBHOUSE
   - Name: Clubhouse
@@ -100,6 +101,14 @@ links:
     Username: theharshtrivedi
     Color: '#006AFF'
     Icon-Class: fab fa-facebook-messenger
+
+    # Cal.com
+  - Name: Cal.com
+    URL: https://cal.com
+    Username: harshtrivedi
+    Color: '#000000'
+    Icon-Class: fa fa-calendar-check
+    Text_Color: '#ffffff'
 
     # REDDIT
   - Name: Reddit
