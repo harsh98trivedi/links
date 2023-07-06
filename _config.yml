@@ -106,7 +106,7 @@ links:
   - Name: Cal.com
     URL: https://cal.com
     Username: harshtrivedi
-    Color: '#000000'
+    Color: '#888888'
     Icon-Class: fa fa-calendar-check
     Text_Color: '#ffffff'
 
