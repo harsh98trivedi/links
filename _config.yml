@@ -79,6 +79,14 @@ links:
     Color: '#e17055'
     Text_Color: '#ffffff'
 
+    # EMAIL
+  - Name: Email
+    URL: 'https://profiles.wordpress.org/'
+    Username: harsh98trivedi
+    Icon-Class: fa-brands fa-wordpress-simple
+    Color: '#0073AA'
+    Text_Color: '#ffffff'
+
     # TWITCH
   - Name: Twitch
     URL: 'https://twitch.tv'
