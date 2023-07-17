@@ -80,8 +80,8 @@ links:
     Text_Color: '#ffffff'
 
     # EMAIL
-  - Name: Email
-    URL: 'https://profiles.wordpress.org/'
+  - Name: WordPress.org
+    URL: 'https://profiles.wordpress.org'
     Username: harsh98trivedi
     Icon-Class: fa-brands fa-wordpress-simple
     Color: '#0073AA'
