@@ -72,6 +72,14 @@ links:
     Color: '#6e5494'
     Icon-Class: fab fa-github
 
+    # WordPress
+  - Name: WordPress.org
+    URL: 'https://profiles.wordpress.org'
+    Username: harsh98trivedi
+    Icon-Class: fa-brands fa-wordpress-simple
+    Color: '#0073AA'
+    Text_Color: '#ffffff'
+
     # EMAIL
   - Name: Email
     URL: 'mailto:harshtrivedi@duck.com'
@@ -79,12 +87,12 @@ links:
     Color: '#e17055'
     Text_Color: '#ffffff'
 
-    # EMAIL
-  - Name: WordPress.org
-    URL: 'https://profiles.wordpress.org'
+    # Drupal
+  - Name: Drupal
+    URL: 'https://www.drupal.org/u'
     Username: harsh98trivedi
-    Icon-Class: fa-brands fa-wordpress-simple
-    Color: '#0073AA'
+    Icon-Class: fa-brands fa-drupal
+    Color: '#0077C0'
     Text_Color: '#ffffff'
 
     # TWITCH
