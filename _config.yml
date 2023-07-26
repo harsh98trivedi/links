@@ -42,6 +42,13 @@ links:
     Username: '@ianad'
     Color: '#563ACC'
     Icon-Class: fab fa-mastodon
+
+    # BLUESKY
+  - Name: Bluesky
+    URL: https://bsky.app/
+    Username: 'ianad.me'
+    Color: '#0085ff'
+    Icon-Class: fab fa-cloud
     
     # LINKEDIN
   - Name: LinkedIn
