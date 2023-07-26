@@ -45,10 +45,10 @@ links:
 
     # BLUESKY
   - Name: Bluesky
-    URL: https://bsky.app/
+    URL: https://bsky.app/profile
     Username: 'ianad.me'
     Color: '#0085ff'
-    Icon-Class: fab fa-cloud
+    Icon-Class: fa-light fa-cloud
     
     # LINKEDIN
   - Name: LinkedIn
