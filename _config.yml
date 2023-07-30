@@ -236,7 +236,7 @@ links:
     Color: '#ffb142'
     Text_Color: '#ffffff'
 
-# - Name: Links
+## - Name: Links
 #   URL: https://github.com/harsh98trivedi/links
 #   Icon-Class: fas fa-link
 #   Color: '#d94869'
