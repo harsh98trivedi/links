@@ -1,10 +1,11 @@
 # YOUR NAME OR TITLE OF YOUR SITE
-name: Dermot Canniffe - LinkBush
+name: Harsh Trivedi
+
 # YOUR BRAND/PERSONAL TAGLINE
-tagline: How to Get in Touch With Me or See the Stuff I put into the world
+tagline: Howdy, I'm Harsh Trivedi. I'm a passionate Tech Lover from Kanpur, apart from that I'm a Graphic Designer and an OpenSource enthusiast Inspired by Imagination.
 
 # YOUR/BRAND IMAGE URL
-Image_URL: https://github.com/dermotcanniffe.png
+Image_URL: https://github.com/harsh98trivedi.png
 
 # CHANGE THE BACKGROUND IMAGE OF THE WEBSITE BY JUST ADDING THE IMAGE URL
 Cover_Image: https://source.unsplash.com/random
@@ -31,23 +32,16 @@ links:
     # TWITTER
   - Name: Twitter
     URL: https://twitter.com
-    Username: SmartBearDermot
+    Username: Derminator_IE
     Color: '#1DA1F2'
     Icon-Class: fab fa-twitter
 
-    # TWITTER
-  - Name: Mastodon
-    URL: https://hachyderm.io
-    Username: '@Derminator'
-    Color: '#595aff'
-    Icon-Class: fab fa-mastodon
-
-  #   # CLUBHOUSE
-  # - Name: Clubhouse
-  #   #URL: https://www.clubhouse.com
-  #   Username: '@harsh98trivedi'
-  #   Color: '#f1c40f'
-  #   Icon-Class: fas fa-hand-paper -mt-0.5
+#   # CLUBHOUSE
+# - Name: Clubhouse
+#   URL: https://www.clubhouse.com
+#   Username: '@dermotcanniffe'
+#   Color: '#f1c40f'
+#   Icon-Class: fas fa-hand-paper -mt-0.5
     
     # LINKEDIN
   - Name: LinkedIn
@@ -83,7 +77,7 @@ links:
 #   Username: dermotcanniffe
 #   Icon-Class: fab fa-twitch
 #   Color: '#9147fe'
-#    Text_Color: '#ffffff'
+    Text_Color: '#ffffff'
 
 #   # VIMEO
 # - Name: Vimeo
@@ -91,7 +85,7 @@ links:
 #   Username: harshtrivedi
 #   Icon-Class: fab fa-vimeo-v
 #   Color: '#1ab7ea'
-#    Text_Color: '#ffffff'
+    Text_Color: '#ffffff'
 
 #   # MESSENGER
 # - Name: Messenger
@@ -100,19 +94,19 @@ links:
 #   Color: '#006AFF'
 #   Icon-Class: fab fa-facebook-messenger
 
-#   # REDDIT
+##   # REDDIT
 # - Name: Reddit
 #   URL: http://reddit.com/u
 #   Username: harshtrivedi
 #   Color: '#FF4500'
 #   Icon-Class: fab fa-reddit-alien
 
-  #   # WHATSAPP
-  # - Name: WhatsApp
-  #   URL: https://wa.me
-  #   Username: '+1123456789'
-  #   Color: '#25d366'
-  #   Icon-Class: fab fa-whatsapp
+##     # WHATSAPP
+#   - Name: WhatsApp
+#     URL: https://wa.me
+#     Username: '+1123456789'
+#     Color: '#25d366'
+#     Icon-Class: fab fa-whatsapp
 
 #   # TELEGRAM
 # - Name: Telegram
@@ -137,13 +131,13 @@ links:
 #   Text_Color: '#000000'
 #Icon-Class: fab fa-steam
 
-    # DISCORD
-  - Name: Discord
-    URL: 'https://discord.gg'
-    Username: Stabarinde#3874
-    Icon-Class: fab fa-discord
-    Color: '#5865F2'
-    Text_Color: '#ffffff'
+  #   # DISCORD
+  # - Name: Discord
+  #   URL: 'https://discord.gg'
+  #   Username: 
+  #   Icon-Class: fab fa-discord
+  #   Color: '#5865F2'
+  #   Text_Color: '#ffffff'
 
 #  # PINTEREST
 # - Name: Pinterest
@@ -185,16 +179,16 @@ links:
     # SPOTIFY
   - Name: Spotify
     URL: http://open.spotify.com/user
-    Username: stabarinde?si=2ee76c23a0dd4f1b
+    Username: dermotcanniffe
     Color: '#1DB954'
     Icon-Class: fab fa-spotify
 
-    # SOUNDCLOUD
-  - Name: SoundCloud
-    URL: https://www.soundcloud.com
-    Username: stabarinde
-    Color: '#FE5000'
-    Icon-Class: fab fa-soundcloud
+#   # SOUNDCLOUD
+# - Name: SoundCloud
+#   URL: https://www.soundcloud.com
+#   Username: dermotcanniffe
+#   Color: '#FE5000'
+#   Icon-Class: fab fa-soundcloud
 
   #    # TIKTOK
   # - Name: TikTok
@@ -206,7 +200,7 @@ links:
     # MEDIUM
   - Name: Medium
     URL: 'https://medium.com'
-    Username: '@dermot.canniffe'
+    Username: '@dermotcanniffe'
     Icon-Class: fab fa-medium-m
     Color: '#00ab6c'
     Text_Color: '#ffffff'
@@ -234,18 +228,19 @@ links:
 #   Color: '#FFDD00'
 #Text_Color: '#000000'
 
-    # CUSTOM LINK
-  - Name: Calendly
-    URL: https://calendly.com/dermotcanniffe/30min?back=1
-    Icon-Class: fas fa-calendly
+    ## CUSTOM LINK
+  - Name: Mastodon
+#    URL: https://hachyderm.io/@derminator
+    URL: https://sw-development-is.social/@derminator
+    Icon-Class: fas fa-link
     Color: '#ffb142'
     Text_Color: '#ffffff'
 
-  - Name: Links
-    URL: https://dermotcanniffe.github.io/links
-    Icon-Class: fas fa-link
-    Color: '#d94869'
-    Text_Color: '#ffffff'
+# - Name: Links
+#   URL: https://github.com/harsh98trivedi/links
+#   Icon-Class: fas fa-link
+#   Color: '#d94869'
+#   Text_Color: '#ffffff'
 
 # YOU CAN REMOVE FOOTER COMPLETELY BY SIMPLY REMOVING EITHER THE YES OR REMOVING THE FOOTER STATEMENT BELOW COMPLETELY
 footer: 'Yes'
