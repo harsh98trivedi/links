@@ -90,7 +90,7 @@ links:
     # Drupal
   - Name: Drupal
     URL: 'https://www.drupal.org/u'
-    Username: harsh98trivedi
+    Username: harshtrivedi
     Icon-Class: fa-brands fa-drupal
     Color: '#0077C0'
     Text_Color: '#ffffff'
