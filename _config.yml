@@ -1,286 +1,164 @@
 # YOUR NAME OR TITLE OF YOUR SITE
-name: Harsh Trivedi
+name: JackAce
 
 # YOUR BRAND/PERSONAL TAGLINE
-tagline: Howdy, I'm Harsh Trivedi. I'm a passionate Tech Lover from Kanpur, apart from that I'm a Graphic Designer and an OpenSource enthusiast Inspired by Imagination.
+tagline: Gambler, Engineer, Hip Hop Connoisseur
 
 # YOUR/BRAND IMAGE URL
-Image_URL: https://github.com/harsh98trivedi.png
+Image_URL: https://avatars.githubusercontent.com/u/1430137?v=4
 
 # CHANGE THE BACKGROUND IMAGE OF THE WEBSITE BY JUST ADDING THE IMAGE URL
 Cover_Image: https://picsum.photos/1080?nocache=
+# Cover_Image: /assets/images/jackace-background-5120x1440.png
 
 # SOCIAL MEDIA
 links:
 
   # IF YOU DON'T WANT TO USE ANY OF THE FOLLOWING, JUST LEAVE THE URL BLANK
     
-    # FACEBOOK
-  - Name: Facebook
-    URL: https://www.facebook.com
-    Username: harsh98trivedi
-    Color: '#3b5998'
-    Icon-Class: fab fa-facebook
-
     # INSTAGRAM
   - Name: Instagram
     URL: https://www.instagram.com
-    Username: harsh98trivedi
+    Username: jackace.com
     Color: '#DD2A7B'
     Icon-Class: fab fa-instagram
 
     # TWITTER
   - Name: Twitter
     URL: https://twitter.com
-    Username: harsh98trivedi
+    Username: JackAce
     Color: '#1DA1F2'
     Icon-Class: fab fa-twitter
 
-     # THREADS.NET
-  - Name: Threads
-    URL: https://threads.net/
-    Username: harsh98trivedi
-    Color: '#000000'
-    Icon-Class: fa-solid fa-at
-    Text_Color: '#ffffff'
-
-    # CLUBHOUSE
-  - Name: Clubhouse
-    URL: https://www.clubhouse.com
-    Username: '@harsh98trivedi'
-    Color: '#f1c40f'
-    Icon-Class: fas fa-hand-paper -mt-0.5
-    
     # LINKEDIN
   - Name: LinkedIn
     URL: https://www.linkedin.com/in
-    Username: harsh98trivedi
+    Username: JackAce
     Color: '#2867B2'
     Icon-Class: fab fa-linkedin-in
 
     # YOUTUBE
   - Name: YouTube
-    URL: https://www.youtube.com/channel
-    Username: UCS3zvA_2r1iGT7MB3NVCGAw
+    URL: https://www.youtube.com
+    Username: \@JackAceDotCom
     Color: '#ff0000'
     Icon-Class: fab fa-youtube
 
     # GITHUB
   - Name: GitHub
     URL: http://github.com
-    Username: harsh98trivedi
+    Username: JackAce
     Color: '#6e5494'
     Icon-Class: fab fa-github
 
     # WordPress
-  - Name: WordPress.org
-    URL: 'https://profiles.wordpress.org'
-    Username: harsh98trivedi
-    Icon-Class: fa-brands fa-wordpress-simple
-    Color: '#0073AA'
-    Text_Color: '#ffffff'
+  # - Name: WordPress.org
+  #   URL: 'https://profiles.wordpress.org'
+  #   Username: jackace
+  #   Icon-Class: fa-brands fa-wordpress-simple
+  #   Color: '#0073AA'
+  #   Text_Color: '#ffffff'
 
     # EMAIL
   - Name: Email
-    URL: 'mailto:harshtrivedi@duck.com'
+    URL: 'mailto:jackace@jackace.com'
     Icon-Class: fas fa-envelope
     Color: '#e17055'
     Text_Color: '#ffffff'
 
-  #   # Drupal
-  # - Name: Drupal
-  #   URL: 'https://www.drupal.org/u'
-  #   Username: harshtrivedi
-  #   Icon-Class: fa-brands fa-drupal
-  #   Color: '#0077C0'
-  #   Text_Color: '#ffffff'
-
     # TWITCH
   - Name: Twitch
     URL: 'https://twitch.tv'
-    Username: harsh98trivedi
+    Username: jackacedotcom
     Icon-Class: fab fa-twitch
     Color: '#9147fe'
     Text_Color: '#ffffff'
 
     # VIMEO
-  - Name: Vimeo
-    URL: 'https://vimeo.com'
-    Username: harshtrivedi
-    Icon-Class: fab fa-vimeo-v
-    Color: '#1ab7ea'
-    Text_Color: '#ffffff'
-
-    # MESSENGER
-  - Name: Messenger
-    URL: https://m.me
-    Username: theharshtrivedi
-    Color: '#006AFF'
-    Icon-Class: fab fa-facebook-messenger
-
-    # Cal.com
-  - Name: Cal.com
-    URL: https://cal.com
-    Username: harshtrivedi
-    Color: '#888888'
-    Icon-Class: fa fa-calendar-check
-    Text_Color: '#ffffff'
-
-    # REDDIT
-  - Name: Reddit
-    URL: http://reddit.com/u
-    Username: harshtrivedi
-    Color: '#FF4500'
-    Icon-Class: fab fa-reddit-alien
-
-  #   # WHATSAPP
-  # - Name: WhatsApp
-  #   URL: https://wa.me
-  #   Username: '+1123456789'
-  #   Color: '#25d366'
-  #   Icon-Class: fab fa-whatsapp
-
-    # TELEGRAM
-  - Name: Telegram
-    URL: http://telegram.me
-    Username: theharshtrivedi
-    Color: '#0088cc'
-    Icon-Class: fab fa-telegram-plane
-
-    # SNAPCHAT
-  - Name: Snapchat
-    URL: https://www.snapchat.com/add
-    Username: 'harsh98trivedi'
-    Color: '#FFFC00'
-    Text_Color: '#000000'
-    Icon-Class: fab fa-snapchat-ghost
-
-    # STEAM
-  - Name: Steam
-    URL: https://steamcommunity.com/id
-    Username: 'harshtrivedi'
-    Color: '#66c0f4'
-    Text_Color: '#000000'
-    Icon-Class: fab fa-steam
-
-  #   # DISCORD
-  # - Name: Discord
-  #   URL: 'https://discord.gg'
-  #   Username: 
-  #   Icon-Class: fab fa-discord
-  #   Color: '#5865F2'
+  # - Name: Vimeo
+  #   URL: 'https://vimeo.com'
+  #   Username: jackace
+  #   Icon-Class: fab fa-vimeo-v
+  #   Color: '#1ab7ea'
   #   Text_Color: '#ffffff'
 
-    # PINTEREST
-  - Name: Pinterest
-    URL: https://pinterest.com
-    Username: 'harsh98trivedi'
-    Color: '#E60023'
-    Icon-Class: fab fa-pinterest
+  #   # TELEGRAM
+  # - Name: Telegram
+  #   URL: http://telegram.me
+  #   Username: jackace
+  #   Color: '#0088cc'
+  #   Icon-Class: fab fa-telegram-plane
 
-    # BEHANCE
-  - Name: Behance
-    URL: https://www.behance.net
-    Username: harsh98trivedi
-    Color: '#1769ff'
-    Icon-Class: fab fa-behance
-
-  #   # DRIBBBLE
-  # - Name: Dribbble
-  #   URL: https://dribbble.com
-  #   Username: 
-  #   Color: '#ea4c89'
-  #   Icon-Class: fab fa-dribbble
-
-    # DEVIANTART
-  - Name: DeviantArt
-    URL: https://www.deviantart.com
-    Username: harshtrivedi
-    Icon-Class: fab fa-deviantart
-    Color: '#05CC46'
+    # DISCORD
+  - Name: Discord
+    URL: 'https://discord.gg'
+    Username: R6nTPzcpma
+    Icon-Class: fab fa-discord
+    Color: '#5865F2'
     Text_Color: '#ffffff'
-
-    # FIGMA
-  - Name: Figma
-    URL: https://www.figma.com
-    Username: '@harshtrivedi'
-    Icon-Class: fab fa-figma
-    Color: '#ff2865'
-    Text_Color: '#ffffff'
-
-    # SPOTIFY
-  - Name: Spotify
-    URL: http://open.spotify.com/user
-    Username: 314ihryk3edvtusti6il3oy3x5da
-    Color: '#1DB954'
-    Icon-Class: fab fa-spotify
 
     # SOUNDCLOUD
   - Name: SoundCloud
     URL: https://www.soundcloud.com
-    Username: harsh98trivedi
+    Username: jackacestudios
     Color: '#FE5000'
     Icon-Class: fab fa-soundcloud
 
-  - Name: Skype
-    URL: https://join.skype.com/invite/e6vMrfsYKn9e
-    Icon-Class: fa-brands fa-skype
-    Color: '#00aff0'
-    Text_Color: '#ffffff'
+     # TIKTOK
+  - Name: TikTok
+    URL: https://www.tiktok.com
+    Username: \@jackace.com
+    Color: '#FE2C55'
+    Icon-Class: fab fa-tiktok
 
-  #    # TIKTOK
-  # - Name: TikTok
-  #   URL: https://www.tiktok.com
-  #   Username: 
-  #   Color: '#FE2C55'
-  #   Icon-Class: fab fa-tiktok
+     # TIKTOK
+  - Name: Patreon
+    URL: https://www.patreon.com
+    Username: jackace
+    Color: '#FE2C55'
+    Icon-Class: fab fa-patreon
 
-    # MEDIUM
-  - Name: Medium
-    URL: 'https://medium.com'
-    Username: '@harsh98trivedi'
-    Icon-Class: fab fa-medium-m
-    Color: '#00ab6c'
-    Text_Color: '#ffffff'
+  #   # MEDIUM
+  # - Name: Medium
+  #   URL: 'https://medium.com'
+  #   Username: jackace
+  #   Icon-Class: fab fa-medium-m
+  #   Color: '#00ab6c'
+  #   Text_Color: '#ffffff'
 
-    # DEV.TO
-  - Name: Dev.to
-    URL: 'https://dev.to'
-    Username: harsh98trivedi
-    Icon-Class: fab fa-dev
-    Color: '#ffffff'
-    Text_Color: '#000000'
+  # # BUY ME A COFFEE
+  # - Name: BuyMeACoffee
+  #   URL: 'https://buymeacoffee.com'
+  #   Username: jackace
+  #   Icon-Class: fas fa-mug-hot
+  #   Color: '#FFDD00'
+  #   Text_Color: '#000000'
 
-  #   # TUMBLR
-  # - Name: Tumblr
-  #   URL: https://www.tumblr.com
-  #   Username: 
-  #   Color: '#35465c'
-  #   Icon-Class: fab fa-tumblr
-
-  # BUY ME A COFFEE
-  - Name: BuyMeACoffee
-    URL: 'https://buymeacoffee.com'
-    Username: harshtrivedi
-    Icon-Class: fas fa-mug-hot
-    Color: '#FFDD00'
-    Text_Color: '#000000'
-
-    # CUSTOM LINK
-  - Name: Blog
-    URL: https://harsh98trivedi.github.io/blog
+  # Roulette Bet Analyzer
+  - Name: JackAce's Web Site
+    URL: https://www.jackace.com
     Icon-Class: fas fa-link
-    Color: '#ffb142'
+    Color: '#222222'
+    Text_Color: '#ffffff'
+
+  # Roulette Bet Analyzer
+  - Name: Roulette Bet Analyzer
+    URL: https://rba.jackace.com
+    Icon-Class: fas fa-link
+    Color: '#7dd34f'
     Text_Color: '#ffffff'
 
   - Name: Links
-    URL: https://github.com/harsh98trivedi/links
+    URL: https://github.com/JackAce/links.jackace.com
     Icon-Class: fas fa-link
     Color: '#d94869'
     Text_Color: '#ffffff'
 
 # YOU CAN REMOVE FOOTER COMPLETELY BY SIMPLY REMOVING EITHER THE YES OR REMOVING THE FOOTER STATEMENT BELOW COMPLETELY
-footer: 'Yes'
+footer: 'No'
+
+google_analytics: G-Q93BTYSCS6
+google_adsense: ca-pub-5831288475713424
 
 # STOP EDITING HERE ---------- YOU'VE REACHED THE END OF THE CONFIGURATION
 
