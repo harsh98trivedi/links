@@ -52,11 +52,11 @@ links:
     Icon-Class: fab fa-twitter
 
     # LINKEDIN
-  - Name: LinkedIn
-    URL: https://www.linkedin.com/in
-    Username: JackAce
-    Color: '#2867B2'
-    Icon-Class: fab fa-linkedin-in
+  # - Name: LinkedIn
+    # URL: https://www.linkedin.com/in
+    # Username: JackAce
+    # Color: '#2867B2'
+    # Icon-Class: fab fa-linkedin-in
 
      # PATREON
   - Name: Patreon
