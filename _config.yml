@@ -103,11 +103,39 @@ links:
     Color: '#FE5000'
     Icon-Class: fab fa-soundcloud
 
+  # Wordle Solver
+  - Name: JackAce Wordle Solver
+    URL: https://www.jackace.com/games/wordle/solver
+    Icon-Class: fab fa-sticker-mule
+    Color: '#333333'
+    Text_Color: '#ffffff'
+
+  # TipiT
+  - Name: TipiT - Palindromic Tip Calculator
+    URL: https://tipit.jackace.com
+    Icon-Class: fab fa-sticker-mule
+    Color: '#e99536'
+    Text_Color: '#ffffff'
+
+  # Lotto EV Calculator
+  - Name: Lotto EV Calcualtor
+    URL: https://lottoev.jackace.com
+    Icon-Class: fab fa-sticker-mule
+    Color: '#111161'
+    Text_Color: '#ffffff'
+
   # Roulette Bet Analyzer
   - Name: Roulette Bet Analyzer
     URL: https://rba.jackace.com
     Icon-Class: fab fa-sticker-mule
-    Color: '#7dd34f'
+    Color: '#1c6603'
+    Text_Color: '#ffffff'
+
+  # Roulette System Submission
+  - Name: Submit your Roulette System!
+    URL: https://www.jackace.com/gambling/roulette/systems/submit
+    Icon-Class: fab fa-sticker-mule
+    Color: '#5c317c'
     Text_Color: '#ffffff'
 
     # VIMEO
@@ -142,11 +170,11 @@ links:
   #   Text_Color: '#000000'
 
     # EMAIL
-  - Name: Email
-    URL: 'mailto:jackace@jackace.com'
-    Icon-Class: fas fa-envelope
-    Color: '#e17055'
-    Text_Color: '#ffffff'
+  # - Name: Email
+  #   URL: 'mailto:jackace@jackace.com'
+  #   Icon-Class: fas fa-envelope
+  #   Color: '#e17055'
+  #   Text_Color: '#ffffff'
 
   - Name: Links
     URL: https://github.com/JackAce/links.jackace.com
