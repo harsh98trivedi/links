@@ -42,8 +42,8 @@ links:
   - Name: BlueSky
     URL: https://bsky.app/profile/derminator.bsky.social
     Username: '@derminator.bsky.social'
-    Color: '#E60023'
-    Icon-Class: fab fa-pinterest
+    Color: '#2200E6'
+    Icon-Class: fas fa-link
 
     # SPOTIFY
   - Name: Spotify
@@ -67,6 +67,13 @@ links:
     Icon-Class: fas fa-link
     Color: '#ffb142'
     Text_Color: '#ffffff'
+
+    ## CUSTOM LINK
+  - Name: MiroVerse
+    URL: https://miro.com/miroverse/profile/dermotcanniffe
+    Icon-Class: fas fa-link
+    Color: '#ffee42'
+    Text_Color: '#000000'
 
   #   # FACEBOOK
   # - Name: Facebook
