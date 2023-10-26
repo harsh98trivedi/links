@@ -8,7 +8,7 @@ tagline: Howdy, I'm Dermot, here are my links
 Image_URL: https://raw.githubusercontent.com/dermotcanniffe/links/44d22f93d1b6a8f72524a7a1265f541d5553c974/assets/images/dermot_canniffe_headshot.jpg
 
 # CHANGE THE BACKGROUND IMAGE OF THE WEBSITE BY JUST ADDING THE IMAGE URL
-Cover_Image: https://source.unsplash.com/random
+Cover_Image: https://picsum.photos/1080?nocache=
 
 # SOCIAL MEDIA
 links:
@@ -36,12 +36,20 @@ links:
     Color: '#1DA1F2'
     Icon-Class: fab fa-twitter
 
-#   # CLUBHOUSE
-# - Name: Clubhouse
-#   URL: https://www.clubhouse.com
-#   Username: '@dermotcanniffe'
-#   Color: '#f1c40f'
-#   Icon-Class: fas fa-hand-paper -mt-0.5
+  #    # THREADS.NET
+  # - Name: Threads
+  #   URL: https://threads.net/
+  #   Username: harsh98trivedi
+  #   Color: '#000000'
+  #   Icon-Class: fa-solid fa-at
+  #   Text_Color: '#ffffff'
+
+  #   # CLUBHOUSE
+  # - Name: Clubhouse
+  #   URL: https://www.clubhouse.com
+  #   Username: '@harsh98trivedi'
+  #   Color: '#f1c40f'
+  #   Icon-Class: fas fa-hand-paper -mt-0.5
     
     # LINKEDIN
   - Name: LinkedIn
@@ -64,28 +72,36 @@ links:
     Color: '#6e5494'
     Icon-Class: fab fa-github
 
-#   # EMAIL
-# - Name: Email
-#   URL: 'mailto:harshtrivedi@duck.com'
-#   Icon-Class: fas fa-envelope
-#   Color: '#e17055'
-#   Text_Color: '#ffffff'
+  #   # WordPress
+  # - Name: WordPress.org
+  #   URL: 'https://profiles.wordpress.org'
+  #   Username: harsh98trivedi
+  #   Icon-Class: fa-brands fa-wordpress-simple
+  #   Color: '#0073AA'
+  #   Text_Color: '#ffffff'
 
-#   # TWITCH
-# - Name: Twitch
-#   URL: 'https://twitch.tv'
-#   Username: dermotcanniffe
-#   Icon-Class: fab fa-twitch
-#   Color: '#9147fe'
-    Text_Color: '#ffffff'
+  #   # EMAIL
+  # - Name: Email
+  #   URL: 'mailto:harshtrivedi@duck.com'
+  #   Icon-Class: fas fa-envelope
+  #   Color: '#e17055'
+  #   Text_Color: '#ffffff'
 
-#   # VIMEO
-# - Name: Vimeo
-#   URL: 'https://vimeo.com'
-#   Username: harshtrivedi
-#   Icon-Class: fab fa-vimeo-v
-#   Color: '#1ab7ea'
-    Text_Color: '#ffffff'
+  # #   # Drupal
+  # # - Name: Drupal
+  # #   URL: 'https://www.drupal.org/u'
+  # #   Username: harshtrivedi
+  # #   Icon-Class: fa-brands fa-drupal
+  # #   Color: '#0077C0'
+  # #   Text_Color: '#ffffff'
+
+  #   # TWITCH
+  # - Name: Twitch
+  #   URL: 'https://twitch.tv'
+  #   Username: harsh98trivedi
+  #   Icon-Class: fab fa-twitch
+  #   Color: '#9147fe'
+  #   Text_Color: '#ffffff'
 
 #   # MESSENGER
 # - Name: Messenger
@@ -101,12 +117,20 @@ links:
 #   Color: '#FF4500'
 #   Icon-Class: fab fa-reddit-alien
 
-##     # WHATSAPP
-#   - Name: WhatsApp
-#     URL: https://wa.me
-#     Username: '+1123456789'
-#     Color: '#25d366'
-#     Icon-Class: fab fa-whatsapp
+  #   # Cal.com
+  # - Name: Cal.com
+  #   URL: https://cal.com
+  #   Username: harshtrivedi
+  #   Color: '#888888'
+  #   Icon-Class: fa fa-calendar-check
+  #   Text_Color: '#ffffff'
+
+  #   # REDDIT
+  # - Name: Reddit
+  #   URL: http://reddit.com/u
+  #   Username: harshtrivedi
+  #   Color: '#FF4500'
+  #   Icon-Class: fab fa-reddit-alien
 
 #   # TELEGRAM
 # - Name: Telegram
@@ -189,6 +213,12 @@ links:
 #   Username: dermotcanniffe
 #   Color: '#FE5000'
 #   Icon-Class: fab fa-soundcloud
+
+  - Name: Skype
+    URL: https://join.skype.com/invite/e6vMrfsYKn9e
+    Icon-Class: fa-brands fa-skype
+    Color: '#00aff0'
+    Text_Color: '#ffffff'
 
   #    # TIKTOK
   # - Name: TikTok
