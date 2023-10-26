@@ -14,9 +14,62 @@ Cover_Image: https://picsum.photos/1080?nocache=
 links:
 
   # IF YOU DON'T WANT TO USE ANY OF THE FOLLOWING, JUST LEAVE THE URL BLANK
-    
-    # FACEBOOK
-  - Name: Facebook
+
+# My Own Links - Dermot
+
+    # TWITTER
+  - Name: Twitter
+    URL: https://twitter.com
+    Username: Derminator_IE
+    Color: '#1DA1F2'
+    Icon-Class: fab fa-twitter
+
+    # LINKEDIN
+  - Name: LinkedIn
+    URL: https://www.linkedin.com/in
+    Username: dermotcanniffe
+    Color: '#2867B2'
+    Icon-Class: fab fa-linkedin-in
+
+    # GITHUB
+  - Name: GitHub
+    URL: http://github.com
+    Username: dermotcanniffe
+    Color: '#6e5494'
+    Icon-Class: fab fa-github
+
+  # BLUE SKY
+  - Name: BlueSky
+    URL: https://bsky.app/profile/derminator.bsky.social
+    Username: '@derminator.bsky.social'
+    Color: '#E60023'
+    Icon-Class: fab fa-pinterest
+
+    # SPOTIFY
+  - Name: Spotify
+    URL: http://open.spotify.com/user
+    Username: dermotcanniffe
+    Color: '#1DB954'
+    Icon-Class: fab fa-spotify
+
+    # MEDIUM
+  - Name: Medium
+    URL: 'https://medium.com'
+    Username: '@dermotcanniffe'
+    Icon-Class: fab fa-medium-m
+    Color: '#00ab6c'
+    Text_Color: '#ffffff'
+
+    ## CUSTOM LINK
+  - Name: Mastodon
+#    URL: https://hachyderm.io/@derminator
+    URL: https://sw-development-is.social/@derminator
+    Icon-Class: fas fa-link
+    Color: '#ffb142'
+    Text_Color: '#ffffff'
+
+  #   # FACEBOOK
+  # - Name: Facebook
 #   URL: https://www.facebook.com
 #   Username: dermotcanniffe
 #   Color: '#3b5998'
@@ -29,12 +82,6 @@ links:
 #   Color: '#DD2A7B'
 #   Icon-Class: fab fa-instagram
 
-    # TWITTER
-  - Name: Twitter
-    URL: https://twitter.com
-    Username: Derminator_IE
-    Color: '#1DA1F2'
-    Icon-Class: fab fa-twitter
 
   #    # THREADS.NET
   # - Name: Threads
@@ -51,12 +98,6 @@ links:
   #   Color: '#f1c40f'
   #   Icon-Class: fas fa-hand-paper -mt-0.5
     
-    # LINKEDIN
-  - Name: LinkedIn
-    URL: https://www.linkedin.com/in
-    Username: dermotcanniffe
-    Color: '#2867B2'
-    Icon-Class: fab fa-linkedin-in
 
 #   # YOUTUBE
 # - Name: YouTube
@@ -64,13 +105,6 @@ links:
 #   Username: UCS3zvA_2r1iGT7MB3NVCGAw
 #   Color: '#ff0000'
 #   Icon-Class: fab fa-youtube
-
-    # GITHUB
-  - Name: GitHub
-    URL: http://github.com
-    Username: dermotcanniffe
-    Color: '#6e5494'
-    Icon-Class: fab fa-github
 
   #   # WordPress
   # - Name: WordPress.org
@@ -163,12 +197,6 @@ links:
   #   Color: '#5865F2'
   #   Text_Color: '#ffffff'
 
- # BLUE SKY
-- Name: BlueSky
-  URL: https://bsky.app/profile/derminator.bsky.social
-  Username: '@derminator.bsky.social'
-  Color: '#E60023'
-  Icon-Class: fab fa-pinterest
 
 #   # BEHANCE
 # - Name: Behance
@@ -200,13 +228,6 @@ links:
 #   Color: '#ff2865'
 #Text_Color: '#ffffff'
 
-    # SPOTIFY
-  - Name: Spotify
-    URL: http://open.spotify.com/user
-    Username: dermotcanniffe
-    Color: '#1DB954'
-    Icon-Class: fab fa-spotify
-
 #   # SOUNDCLOUD
 # - Name: SoundCloud
 #   URL: https://www.soundcloud.com
@@ -214,11 +235,11 @@ links:
 #   Color: '#FE5000'
 #   Icon-Class: fab fa-soundcloud
 
-  - Name: Skype
-    URL: https://join.skype.com/invite/e6vMrfsYKn9e
-    Icon-Class: fa-brands fa-skype
-    Color: '#00aff0'
-    Text_Color: '#ffffff'
+  # - Name: Skype
+  #   URL: https://join.skype.com/invite/e6vMrfsYKn9e
+  #   Icon-Class: fa-brands fa-skype
+  #   Color: '#00aff0'
+  #   Text_Color: '#ffffff'
 
   #    # TIKTOK
   # - Name: TikTok
@@ -226,14 +247,6 @@ links:
   #   Username: 
   #   Color: '#FE2C55'
   #   Icon-Class: fab fa-tiktok
-
-    # MEDIUM
-  - Name: Medium
-    URL: 'https://medium.com'
-    Username: '@dermotcanniffe'
-    Icon-Class: fab fa-medium-m
-    Color: '#00ab6c'
-    Text_Color: '#ffffff'
 
 #   # DEV.TO
 # - Name: Dev.to
@@ -258,13 +271,6 @@ links:
 #   Color: '#FFDD00'
 #Text_Color: '#000000'
 
-    ## CUSTOM LINK
-  - Name: Mastodon
-#    URL: https://hachyderm.io/@derminator
-    URL: https://sw-development-is.social/@derminator
-    Icon-Class: fas fa-link
-    Color: '#ffb142'
-    Text_Color: '#ffffff'
 
 ## - Name: Links
 #   URL: https://github.com/harsh98trivedi/links
