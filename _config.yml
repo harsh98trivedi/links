@@ -139,12 +139,12 @@ links:
   #   Color: '#5865F2'
   #   Text_Color: '#ffffff'
 
-#  # PINTEREST
-# - Name: Pinterest
-#   URL: https://pinterest.com
-#   Username: 'harsh98trivedi'
-#   Color: '#E60023'
-#   Icon-Class: fab fa-pinterest
+ # BLUE SKY
+- Name: BlueSky
+  URL: https://bsky.app/profile/derminator.bsky.social
+  Username: '@derminator.bsky.social'
+  Color: '#E60023'
+  Icon-Class: fab fa-pinterest
 
 #   # BEHANCE
 # - Name: Behance
