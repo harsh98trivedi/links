@@ -103,6 +103,13 @@ links:
     Color: '#FE5000'
     Icon-Class: fab fa-soundcloud
 
+    # Amazon Influencer
+  - Name: Amazon Store
+    URL: https://www.amazon.com/shop
+    Username: jackace
+    Color: '#f29825'
+    Icon-Class: fab fa-amazon
+
   # Wordle Solver
   - Name: JackAce Wordle Solver
     URL: https://www.jackace.com/games/wordle/solver
