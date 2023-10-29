@@ -96,6 +96,14 @@ links:
     Color: '#9147fe'
     Text_Color: '#ffffff'
 
+    # MASTODON
+  - Name: Mastodon
+    URL: 'https://hachyderm.io'
+    Username: '@JackAce'
+    Icon-Class: fab fa-mastodon
+    Color: '#6364f6'
+    Text_Color: '#ffffff'
+
     # SOUNDCLOUD
   - Name: SoundCloud
     URL: https://www.soundcloud.com
