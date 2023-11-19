@@ -58,6 +58,13 @@ links:
     Color: '#1DA1F2'
     Icon-Class: fab fa-twitter
 
+    # Kick
+  - Name: Kick
+    URL: https://kick.com
+    Username: jackacedotcom
+    Color: '#87f950'
+    Icon-Class: fab fa-kickstarter-k
+
     # LINKEDIN
   # - Name: LinkedIn
     # URL: https://www.linkedin.com/in
