@@ -24,10 +24,17 @@ links:
     Text_Color: '#ffffff'
 
     # YOUTUBE
-  - Name: YouTube
+  - Name: JackAce YouTube
     URL: https://www.youtube.com
     Username: \@JackAceDotCom
     Color: '#ff0000'
+    Icon-Class: fab fa-youtube
+
+    # YOUTUBE
+  - Name: JackAce Tech YouTube
+    URL: https://www.youtube.com
+    Username: \@JackAceTech
+    Color: '#064055'
     Icon-Class: fab fa-youtube
 
      # TIKTOK
