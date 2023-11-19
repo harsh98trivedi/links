@@ -24,10 +24,17 @@ links:
     Text_Color: '#ffffff'
 
     # YOUTUBE
-  - Name: YouTube
+  - Name: JackAce YouTube
     URL: https://www.youtube.com
     Username: \@JackAceDotCom
     Color: '#ff0000'
+    Icon-Class: fab fa-youtube
+
+    # YOUTUBE
+  - Name: JackAce Tech YouTube
+    URL: https://www.youtube.com
+    Username: \@JackAceTech
+    Color: '#064055'
     Icon-Class: fab fa-youtube
 
      # TIKTOK
@@ -94,6 +101,14 @@ links:
     Username: jackacedotcom
     Icon-Class: fab fa-twitch
     Color: '#9147fe'
+    Text_Color: '#ffffff'
+
+    # MASTODON
+  - Name: Mastodon
+    URL: 'https://hachyderm.io'
+    Username: '@JackAce'
+    Icon-Class: fab fa-mastodon
+    Color: '#6364f6'
     Text_Color: '#ffffff'
 
     # SOUNDCLOUD
