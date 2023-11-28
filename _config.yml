@@ -23,6 +23,13 @@ links:
     Color: '#222222'
     Text_Color: '#ffffff'
 
+    # SHOP
+  - Name: The JackAce Store
+    URL: https://shop.jackace.com
+    Username: 
+    Color: '#055fa8'
+    Icon-Class: fas fa-shopping-cart
+
     # YOUTUBE
   - Name: JackAce YouTube
     URL: https://www.youtube.com
@@ -71,6 +78,7 @@ links:
     # Username: JackAce
     # Color: '#2867B2'
     # Icon-Class: fab fa-linkedin-in
+    # fa-sharp fa-solid fa-cart-shopping
 
      # PATREON
   - Name: Patreon
