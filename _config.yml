@@ -26,7 +26,6 @@ links:
     # SHOP
   - Name: The JackAce Store
     URL: https://shop.jackace.com
-    Username: 
     Color: '#055fa8'
     Icon-Class: fas fa-shopping-cart
 
@@ -175,12 +174,19 @@ links:
     Color: '#5c317c'
     Text_Color: '#ffffff'
 
-  # Deposit Crypto and Play!
-  - Name: Deposit Crypto and PLAY at IGNITION CASINO!
-    URL: https://record.revenuenetwork.com/_OVWLBrc9LNFhtnC4-DJf72Nd7ZgqdRLk/1/
-    Icon-Class: fa-solid fa-coins
-    Color: '#99ff99'
-    Text_Color: '#333333'
+  - Name: BUY a Blackjack Simplified Basic Strategy Card!
+    URL: 'https://shop.jackace.com/products/blackjack-strategy-cards-simplified-basic-strategy'
+    Username: 
+    Icon-Class: fas fa-shopping-cart
+    Color: '#439142'
+    Text_Color: '#ffffff'
+
+  # # Deposit Crypto and Play!
+  # - Name: Deposit Crypto and PLAY at IGNITION CASINO!
+  #   URL: https://record.revenuenetwork.com/_OVWLBrc9LNFhtnC4-DJf72Nd7ZgqdRLk/1/
+  #   Icon-Class: fa-solid fa-coins
+  #   Color: '#99ff99'
+  #   Text_Color: '#333333'
 
     # VIMEO
   # - Name: Vimeo
