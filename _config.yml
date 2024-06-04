@@ -31,14 +31,14 @@ links:
 
     # TWITTER
   - Name: Twitter
-    URL: https://twitter.com
+    URL: https://x.com
     Username: harsh98trivedi
     Color: '#1DA1F2'
     Icon-Class: fab fa-twitter
 
      # THREADS.NET
   - Name: Threads
-    URL: https://threads.net/
+    URL: https://threads.net
     Username: harsh98trivedi
     Color: '#000000'
     Icon-Class: fa-brands fa-threads

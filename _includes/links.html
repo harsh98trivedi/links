@@ -2,7 +2,7 @@
 
 {% if link.URL %}
 
-<a class="flex" href="{{link.URL}}{% if link.Username %}/{{link.Username}}{% endif %}" target="_blank"
+<a class="flex" href="{{ link.URL | rtrim '/' }}{% if link.Username %}/{{ link.Username }}{% endif %}" target="_blank"
         rel="noopener noreferrer">
         <button id="links"
                 class="links min-h-auto lg:m-5 md:5 sm:3.5 text-white hover:opacity-75 font-semibold my-2.5 mx-5 px-5 py-1.5 rounded-md w-full place-content-center h-14 w-32"
