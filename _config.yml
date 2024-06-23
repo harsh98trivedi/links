@@ -1,11 +1,11 @@
 # YOUR NAME OR TITLE OF YOUR SITE
-name: Harsh Trivedi
+name: Marcelo Lopez Lopez
 
 # YOUR BRAND/PERSONAL TAGLINE
-tagline: Howdy, I'm Harsh Trivedi. I'm a passionate Tech Lover from Kanpur, apart from that I'm a Graphic Designer and an OpenSource enthusiast Inspired by Imagination.
+tagline: My name is Marcelo Lopez Lopez. I am a Local Activist, Tech Enthusiast, Photographer, and an overall Loud Guy.
 
 # YOUR/BRAND IMAGE URL
-Image_URL: https://github.com/harsh98trivedi.png
+Image_URL: https://avatars.githubusercontent.com/u/116130632?v=4.png
 
 # CHANGE THE BACKGROUND IMAGE OF THE WEBSITE BY JUST ADDING THE IMAGE URL
 Cover_Image: https://picsum.photos/1080?nocache=
@@ -18,38 +18,38 @@ links:
     # FACEBOOK
   - Name: Facebook
     URL: https://www.facebook.com
-    Username: harsh98trivedi
+    Username: 
     Color: '#3b5998'
     Icon-Class: fab fa-facebook
 
     # INSTAGRAM
   - Name: Instagram
     URL: https://www.instagram.com
-    Username: harsh98trivedi
+    Username: 
     Color: '#DD2A7B'
     Icon-Class: fab fa-instagram
 
     # TWITTER
   - Name: Twitter
     URL: https://x.com
-    Username: harsh98trivedi
+    Username: 
     Color: '#1DA1F2'
     Icon-Class: fab fa-twitter
 
      # THREADS.NET
   - Name: Threads
     URL: https://threads.net
-    Username: harsh98trivedi
+    Username: 
     Color: '#000000'
     Icon-Class: fa-brands fa-threads
     Text_Color: '#ffffff'
 
     # CLUBHOUSE
-  - Name: Clubhouse
-    URL: https://www.clubhouse.com
-    Username: '@harsh98trivedi'
-    Color: '#f1c40f'
-    Icon-Class: fas fa-hand-paper -mt-0.5
+  - # Name: Clubhouse
+    # URL: https://www.clubhouse.com
+    # Username: '@harsh98trivedi'
+    # Color: '#f1c40f'
+    # Icon-Class: fas fa-hand-paper -mt-0.5
     
     # LINKEDIN
   - Name: LinkedIn
@@ -148,12 +148,12 @@ links:
     Icon-Class: fab fa-telegram-plane
 
     # SNAPCHAT
-  - Name: Snapchat
-    URL: https://www.snapchat.com/add
-    Username: 'harsh98trivedi'
-    Color: '#FFFC00'
-    Text_Color: '#000000'
-    Icon-Class: fab fa-snapchat-ghost
+  - # Name: Snapchat
+    # URL: https://www.snapchat.com/add
+    # qUsername: 'harsh98trivedi'
+    # Color: '#FFFC00'
+    # Text_Color: '#000000'
+    # Icon-Class: fab fa-snapchat-ghost
 
     # STEAM
   - Name: Steam
@@ -201,7 +201,7 @@ links:
     Text_Color: '#ffffff'
 
     # FIGMA
-  - Name: Figma
+  - Name: Figma - REMOVE
     URL: https://www.figma.com
     Username: '@harshtrivedi'
     Icon-Class: fab fa-figma
@@ -222,7 +222,7 @@ links:
     Color: '#FE5000'
     Icon-Class: fab fa-soundcloud
 
-  - Name: Skype
+  - Name: Skype - REMOVE
     URL: https://join.skype.com/invite/e6vMrfsYKn9e
     Icon-Class: fa-brands fa-skype
     Color: '#00aff0'
