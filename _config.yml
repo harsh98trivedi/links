@@ -1,0 +1,151 @@
+# YOUR NAME OR TITLE OF YOUR SITE
+name: Farrel Aulia Irfealdo
+
+# YOUR BRAND/PERSONAL TAGLINE
+tagline: Web Developer.
+
+# YOUR/BRAND IMAGE URL
+Image_URL: https://i.ibb.co.com/VL9x6Pn/IMG-20240705-095755-579.jpg
+
+# GANTI GAMBAR LATAR BELAKANG WEBSITE HANYA DENGAN MENAMBAHKAN URL GAMBAR
+Cover_Image: https://picsum.photos/1080?nocache=
+
+# SOCIAL MEDIA
+links:
+
+  # IF YOU DON'T WANT TO USE ANY OF THE FOLLOWING, JUST LEAVE THE URL BLANK
+    
+    # FACEBOOK
+  - Name: Facebook
+    URL: https://www.facebook.com
+    Username: farelelite
+    Color: '#3b5998'
+    Icon-Class: fab fa-facebook
+    
+    # MESSENGER
+  - Name: Messenger
+    URL: https://m.me
+    Username: farelelite
+    Color: '#006AFF'
+    Icon-Class: fab fa-facebook-messenger
+    
+     # WHATSAPP
+   - Name: WhatsApp
+     URL: https://wa.me
+     Username: '+6287793871423'
+     Color: '#25d366'
+     Icon-Class: fab fa-whatsapp
+
+    # INSTAGRAM
+  - Name: Instagram
+    URL: https://www.instagram.com
+    Username: farrelauliairfealdo_
+    Color: '#DD2A7B'
+    Icon-Class: fab fa-instagram
+
+    # TWITTER
+  - Name: Twitter
+    URL: https://x.com
+    Username: FIrfealdo61247
+    Color: '#1DA1F2'
+    Icon-Class: fab fa-twitter
+
+     # THREADS.NET
+  - Name: Threads
+    URL: https://threads.net
+    Username: farrelauliairfealdo_
+    Color: '#000000'
+    Icon-Class: fa-brands fa-threads
+    Text_Color: '#ffffff'
+    
+    # GITHUB
+  - Name: GitHub
+    URL: http://github.com
+    Username: farrelauliairfealdo
+    Color: '#6e5494'
+    Icon-Class: fab fa-github
+    
+    # TELEGRAM
+  - Name: Telegram
+    URL: http://telegram.me
+    Username: farrelauliairfealdo
+    Color: '#0088cc'
+    Icon-Class: fab fa-telegram-plane
+    
+      # TIKTOK
+   - Name: TikTok
+     URL: https://www.tiktok.com
+     Username: farrel.aulia.irfealdo
+     Color: '#FE2C55'
+     Icon-Class: fab fa-tiktok
+
+    # YOUTUBE
+  - Name: YouTube
+    URL: https://www.youtube.com/channel
+    Username: @tenka-md
+    Color: '#ff0000'
+    Icon-Class: fab fa-youtube
+
+    # TWITCH
+  - Name: Twitch
+    URL: 'https://twitch.tv'
+    Username: farrelauliairfealdo
+    Icon-Class: fab fa-twitch
+    Color: '#9147fe'
+    Text_Color: '#ffffff'
+
+    # PINTEREST
+  - Name: Pinterest
+    URL: https://pinterest.com
+    Username: 'farrelauliairfealdo'
+    Color: '#E60023'
+    Icon-Class: fab fa-pinterest
+    
+    # EMAIL
+  - Name: Email
+    URL: 'mailto:farelauliairfealdo99999@gmail.com'
+    Icon-Class: fas fa-envelope
+    Color: '#e17055'
+    Text_Color: '#ffffff'
+
+    # CUSTOM LINK
+  - Name: WhatsApp Group
+    URL: https://chat.whatsapp.com/F7br3RbvM6J7b2BYkwJEe3
+    Icon-Class: fas fa-link
+    Color: '#ffb142'
+    Text_Color: '#ffffff'
+
+  - Name: WhatsApp Channel
+    URL: https://whatsapp.com/channel/0029VajQWVvAojYsI2Fhht1O
+    Icon-Class: fas fa-link
+    Color: '#d94869'
+    Text_Color: '#ffffff'
+
+# ANDA DAPAT MENGHAPUS FOOTER SEPENUHNYA DENGAN MENGHAPUS YA ATAU MENGHAPUS PERNYATAAN FOOTER DI BAWAH INI SEPENUHNYA
+footer: 'Yes'
+
+# BERHENTI MENGEDIT DI SINI ---------- ANDA TELAH MENCAPAI AKHIR KONFIGURASI
+
+# Compress
+compress_html:
+  clippings: all
+
+# Exclude
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - Icon
+
+# Base URL
+# baseurl: /links
+
+# Default Markdown Engine
+markdown: kramdown
