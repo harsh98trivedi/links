@@ -44,6 +44,13 @@ links:
     Icon-Class: fa-brands fa-threads
     Text_Color: '#ffffff'
 
+  # MESSENGER
+  - Name: Messenger
+    URL: https://m.me
+    Username: theharshtrivedi
+    Color: '#006AFF'
+    Icon-Class: fab fa-facebook-messenger
+
     # CLUBHOUSE
   - Name: Clubhouse
     URL: https://www.clubhouse.com
@@ -111,12 +118,13 @@ links:
     Color: '#1ab7ea'
     Text_Color: '#ffffff'
 
-    # MESSENGER
-  - Name: Messenger
-    URL: https://m.me
-    Username: theharshtrivedi
-    Color: '#006AFF'
-    Icon-Class: fab fa-facebook-messenger
+
+  # Google Calendar Appointment
+  - Name: Google Appointment
+    URL: https://calendar.app.google/YDATCWmoZNXCEGiW6
+    Color: '#1b66c9'
+    Icon-Class: fa-regular fa-calendar-days
+    Text_Color: '#ffffff'
 
     # Cal.com
   - Name: Cal.com
