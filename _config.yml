@@ -181,12 +181,12 @@ links:
     Color: '#439142'
     Text_Color: '#ffffff'
 
-  # # Deposit Crypto and Play!
-  # - Name: Deposit Crypto and PLAY at IGNITION CASINO!
-  #   URL: https://record.revenuenetwork.com/_OVWLBrc9LNFhtnC4-DJf72Nd7ZgqdRLk/1/
-  #   Icon-Class: fa-solid fa-coins
-  #   Color: '#99ff99'
-  #   Text_Color: '#333333'
+  # Deposit Crypto and Play!
+  - Name: Live Dealer Roulette at Stake.us!
+    URL: https://stake.us/?c=JackAce
+    Icon-Class: fa-solid fa-coins
+    Color: '#99ff99'
+    Text_Color: '#333333'
 
     # VIMEO
   # - Name: Vimeo
