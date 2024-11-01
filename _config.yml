@@ -266,3 +266,12 @@ exclude:
 
 # Default Markdown Engine
 markdown: kramdown
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-github-metadata
+  - jekyll-feed
+  - jekyll-redirect-from
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-include-cache
