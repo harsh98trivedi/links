@@ -69,7 +69,7 @@ links:
     URL: https://bsky.app/profile
     Username: jackace.com
     Color: '#1DA1F2'
-    Icon-Class: fas fa-link
+    Icon-Class: fa-brands fa-bluesky
 
     # Kick
   - Name: Kick
