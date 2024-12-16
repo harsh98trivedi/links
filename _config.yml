@@ -68,7 +68,7 @@ links:
   - Name: BlueSky
     URL: https://bsky.app/profile
     Username: jackace.com
-    Color: '#1DA1F2'
+    Color: '#397df8'
     Icon-Class: fa-brands fa-bluesky
 
     # Kick
@@ -194,37 +194,6 @@ links:
     Icon-Class: fa-solid fa-coins
     Color: '#99ff99'
     Text_Color: '#333333'
-
-    # VIMEO
-  # - Name: Vimeo
-  #   URL: 'https://vimeo.com'
-  #   Username: jackace
-  #   Icon-Class: fab fa-vimeo-v
-  #   Color: '#1ab7ea'
-  #   Text_Color: '#ffffff'
-
-  #   # TELEGRAM
-  # - Name: Telegram
-  #   URL: http://telegram.me
-  #   Username: jackace
-  #   Color: '#0088cc'
-  #   Icon-Class: fab fa-telegram-plane
-
-  #   # MEDIUM
-  # - Name: Medium
-  #   URL: 'https://medium.com'
-  #   Username: jackace
-  #   Icon-Class: fab fa-medium-m
-  #   Color: '#00ab6c'
-  #   Text_Color: '#ffffff'
-
-  # # BUY ME A COFFEE
-  # - Name: BuyMeACoffee
-  #   URL: 'https://buymeacoffee.com'
-  #   Username: jackace
-  #   Icon-Class: fas fa-mug-hot
-  #   Color: '#FFDD00'
-  #   Text_Color: '#000000'
 
     # EMAIL
   # - Name: Email
