@@ -59,11 +59,17 @@ links:
     Icon-Class: fab fa-instagram
 
     # TWITTER
-  - Name: Twitter (X.com)
-    URL: https://twitter.com
-    Username: JackAce
+  # - Name: Twitter (X.com)
+  #   URL: https://twitter.com
+  #   Username: JackAce
+  #   Color: '#1DA1F2'
+  #   Icon-Class: fab fa-twitter
+
+  - Name: BlueSky
+    URL: https://bsky.app/profile/
+    Username: jackace.com
     Color: '#1DA1F2'
-    Icon-Class: fab fa-twitter
+    Icon-Class: fas fa-link
 
     # Kick
   - Name: Kick
@@ -88,11 +94,11 @@ links:
     Icon-Class: fab fa-patreon
 
     # GITHUB
-  - Name: GitHub
-    URL: http://github.com
-    Username: JackAce
-    Color: '#6e5494'
-    Icon-Class: fab fa-github
+  # - Name: GitHub
+  #   URL: http://github.com
+  #   Username: JackAce
+  #   Color: '#6e5494'
+  #   Icon-Class: fab fa-github
 
     # WordPress
   # - Name: WordPress.org
