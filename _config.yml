@@ -72,6 +72,12 @@ links:
     Color: '#ff0000'
     Icon-Class: fab fa-youtube
 
+  - Name: Bluesky
+    URL: https://bsky.app/profile
+    Username: harsh98trivedi.bsky.social
+    Color: '#58a2fc'
+    Icon-Class: fa-brands fa-bluesky
+
     # GITHUB
   - Name: GitHub
     URL: http://github.com
