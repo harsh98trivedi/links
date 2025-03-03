@@ -101,7 +101,7 @@ links:
     Text_Color: '#ffffff'
 
   - Name: Mastodon
-    URL: 'https://fosstodon.org/'
+    URL: 'https://fosstodon.org'
     Username: '@harshtrivedi'
     Icon-Class: fa-brands fa-mastodon
     Color: '#5a39c9'
