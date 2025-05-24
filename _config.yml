@@ -29,20 +29,12 @@ links:
     Color: '#DD2A7B'
     Icon-Class: fab fa-instagram
 
-    # TWITTER
-  - Name: X
+    # X-Twitter
+  - Name: X-Twitter
     URL: https://x.com
     Username: harsh98trivedi
-    Color: '#1DA1F2'
-    Icon-Class: fa-brands fa-x-twitter
-
-     # THREADS.NET
-  - Name: Threads
-    URL: https://threads.net
-    Username: harsh98trivedi
     Color: '#000000'
-    Icon-Class: fa-brands fa-threads
-    Text_Color: '#ffffff'
+    Icon-Class: fa-brands fa-x-twitter
 
   # MESSENGER
   - Name: Messenger
@@ -57,6 +49,14 @@ links:
     Username: '@harsh98trivedi'
     Color: '#f1c40f'
     Icon-Class: fas fa-hand-paper -mt-0.5
+
+    # THREADS.NET
+  - Name: Threads
+    URL: https://threads.net
+    Username: harsh98trivedi
+    Color: '#000000'
+    Icon-Class: fa-brands fa-threads
+    Text_Color: '#ffffff'
     
     # LINKEDIN
   - Name: LinkedIn
