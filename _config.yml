@@ -30,11 +30,11 @@ links:
     Icon-Class: fab fa-instagram
 
     # TWITTER
-  - Name: Twitter
+  - Name: X
     URL: https://x.com
     Username: harsh98trivedi
     Color: '#1DA1F2'
-    Icon-Class: fab fa-twitter
+    Icon-Class: fa-brands fa-x-twitter
 
      # THREADS.NET
   - Name: Threads
