@@ -249,3 +249,5 @@ plugins:
   - jekyll-sitemap
   - jekyll-paginate
   - jekyll-include-cache
+
+github: [metadata]
