@@ -21,8 +21,8 @@ links:
   - Name: JackAce's Web Site
     URL: https://www.jackace.com
     Icon-Class: fas fa-link
-    Color: '#222222'
-    Text_Color: '#ffffff'
+    Color: '#222'
+    Text_Color: '#fff'
 
     # SHOP
   - Name: The JackAce Store
@@ -34,7 +34,7 @@ links:
   - Name: JackAce YouTube
     URL: https://www.youtube.com
     Username: \@JackAceDotCom
-    Color: '#ff0000'
+    Color: '#f00'
     Icon-Class: fab fa-youtube
 
     # YOUTUBE
@@ -114,7 +114,7 @@ links:
     Username: R6nTPzcpma
     Icon-Class: fab fa-discord
     Color: '#5865F2'
-    Text_Color: '#ffffff'
+    Text_Color: '#fff'
 
     # TWITCH
   - Name: Twitch
@@ -122,7 +122,7 @@ links:
     Username: jackacedotcom
     Icon-Class: fab fa-twitch
     Color: '#9147fe'
-    Text_Color: '#ffffff'
+    Text_Color: '#fff'
 
     # MASTODON
   - Name: Mastodon
@@ -130,7 +130,7 @@ links:
     Username: '@JackAce'
     Icon-Class: fab fa-mastodon
     Color: '#6364f6'
-    Text_Color: '#ffffff'
+    Text_Color: '#fff'
 
     # SOUNDCLOUD
   - Name: SoundCloud
@@ -150,69 +150,68 @@ links:
   - Name: JackAce Wordle Solver
     URL: https://www.jackace.com/games/wordle/solver
     Icon-Class: fab fa-sticker-mule
-    Color: '#333333'
-    Text_Color: '#ffffff'
+    Color: '#333'
+    Text_Color: '#fff'
 
   # TipiT
   - Name: TipiT - Palindromic Tip Calculator
     URL: https://tipit.jackace.com
     Icon-Class: fab fa-sticker-mule
     Color: '#e99536'
-    Text_Color: '#ffffff'
+    Text_Color: '#fff'
 
   # Lotto EV Calculator
   - Name: Lotto EV Calcualtor
     URL: https://lottoev.jackace.com
     Icon-Class: fab fa-sticker-mule
     Color: '#111161'
-    Text_Color: '#ffffff'
+    Text_Color: '#fff'
 
   # Roulette Bet Analyzer
   - Name: Roulette Bet Analyzer
     URL: https://rba.jackace.com
     Icon-Class: fab fa-sticker-mule
     Color: '#1c6603'
-    Text_Color: '#ffffff'
+    Text_Color: '#fff'
 
   # Roulette System Submission
   - Name: Submit your Roulette System!
     URL: https://www.jackace.com/gambling/roulette/systems/submit
     Icon-Class: fab fa-sticker-mule
     Color: '#5c317c'
-    Text_Color: '#ffffff'
+    Text_Color: '#fff'
 
   - Name: Blackjack Simplified Basic Strategy
     URL: 'https://shop.jackace.com/products/100-plastic-blackjack-strategy-cards-simplified-basic-strategy-free-shipping'
     Username: 
     Icon-Class: fas fa-shopping-cart
     Color: '#439142'
-    Text_Color: '#ffffff'
+    Text_Color: '#fff'
 
   # Deposit Crypto and Play!
   - Name: Live Dealer Roulette at Stake.us!
     URL: https://stake.us/?c=JackAce
     Icon-Class: fa-solid fa-coins
     Color: '#99ff99'
-    Text_Color: '#333333'
+    Text_Color: '#333'
 
     # EMAIL
   # - Name: Email
   #   URL: 'mailto:jackace@jackace.com'
   #   Icon-Class: fas fa-envelope
   #   Color: '#e17055'
-  #   Text_Color: '#ffffff'
+  #   Text_Color: '#fff'
 
   - Name: Links
     URL: https://github.com/JackAce/links.jackace.com
     Icon-Class: fas fa-link
     Color: '#d94869'
-    Text_Color: '#ffffff'
+    Text_Color: '#fff'
 
 # YOU CAN REMOVE FOOTER COMPLETELY BY SIMPLY REMOVING EITHER THE YES OR REMOVING THE FOOTER STATEMENT BELOW COMPLETELY
 footer: 'No'
 
 google_analytics: G-Q93BTYSCS6
-#google_adsense: ca-pub-5831288475713424
 
 port: 4088
 
