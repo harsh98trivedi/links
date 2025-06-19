@@ -146,6 +146,14 @@ links:
     Color: '#0073AA'
     Text_Color: '#ffffff'
 
+    # Google Developers
+  - Name: GoogleDev
+    URL: 'https://g.dev'
+    Username: harshtrivedi
+    Icon-Class: fa-brands fa-google
+    Color: '#F4B400'
+    Text_Color: '#DB4437'
+
   - Name: Mastodon
     URL: 'https://fosstodon.org'
     Username: '@harshtrivedi'
