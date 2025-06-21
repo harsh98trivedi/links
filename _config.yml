@@ -29,8 +29,8 @@ links:
     Color: '#DD2A7B'
     Icon-Class: fab fa-instagram
 
-    # X-Twitter
-  - Name: X-Twitter
+    # X-TWITTER
+  - Name: X
     URL: https://x.com
     Username: harsh98trivedi
     Color: '#000000'
@@ -94,14 +94,14 @@ links:
     Text_Color: '#ffffff'
 
 
-  # Google Calendar Appointment
+  # GOOGLE CALANDER APPOINTMENT
   - Name: Google Appointment
     URL: https://calendar.app.google/YDATCWmoZNXCEGiW6
     Color: '#1b66c9'
     Icon-Class: fa-regular fa-calendar-days
     Text_Color: '#ffffff'
 
-    # Cal.com
+    # CAL.COM
   - Name: Cal.com
     URL: https://cal.com
     Username: harshtrivedi
@@ -125,6 +125,7 @@ links:
     Icon-Class: fa-brands fa-threads
     Text_Color: '#ffffff'
 
+  # BLUESKY
   - Name: Bluesky
     URL: https://bsky.app/profile
     Username: harsh98trivedi.bsky.social
@@ -138,7 +139,7 @@ links:
     Color: '#f1c40f'
     Icon-Class: fas fa-hand-paper -mt-0.5
 
-    # WordPress
+    # WORDPRESS
   - Name: WordPress.org
     URL: 'https://profiles.wordpress.org'
     Username: harsh98trivedi
@@ -146,7 +147,7 @@ links:
     Color: '#0073AA'
     Text_Color: '#ffffff'
 
-    # Google Developers
+    # GOOGLE DEVELOPERS
   - Name: GoogleDev
     URL: 'https://g.dev'
     Username: harshtrivedi
@@ -154,6 +155,7 @@ links:
     Color: '#F4B400'
     Text_Color: '#DB4437'
 
+    # MASTODON
   - Name: Mastodon
     URL: 'https://fosstodon.org'
     Username: '@harshtrivedi'
@@ -161,6 +163,13 @@ links:
     Color: '#5a39c9'
     Text_Color: '#ffffff'
 
+    # PEERLIST
+  - Name: Peerlist
+    URL: 'https://peerlist.com'
+    Username: harshtrivedi
+    Icon-Class: fa-solid fa-p
+    Color: '#18aa4a'
+    Text_Color: '#ffffff'
 
     # PINTEREST
   - Name: Pinterest
@@ -213,14 +222,6 @@ links:
     Username: harshtrivedi
     Icon-Class: fab fa-vimeo-v
     Color: '#1ab7ea'
-    Text_Color: '#ffffff'
-
-    # PEERLIST
-  - Name: Peerlist
-    URL: 'https://peerlist.com'
-    Username: harshtrivedi
-    Icon-Class: fa-solid fa-p
-    Color: '#18aa4a'
     Text_Color: '#ffffff'
 
   #   # WHATSAPP
@@ -305,6 +306,7 @@ links:
     Color: '#ffb142'
     Text_Color: '#ffffff'
 
+  # LINKS
   - Name: Links
     URL: https://github.com/harsh98trivedi/links
     Icon-Class: fas fa-link
