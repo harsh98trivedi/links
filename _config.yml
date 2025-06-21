@@ -215,6 +215,14 @@ links:
     Color: '#1ab7ea'
     Text_Color: '#ffffff'
 
+    # PEERLIST
+  - Name: Peerlist
+    URL: 'https://peerlist.com'
+    Username: harshtrivedi
+    Icon-Class: fa-solid fa-p
+    Color: '#18aa4a'
+    Text_Color: '#ffffff'
+
   #   # WHATSAPP
   # - Name: WhatsApp
   #   URL: https://wa.me
