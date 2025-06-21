@@ -165,7 +165,7 @@ links:
 
     # PEERLIST
   - Name: Peerlist
-    URL: 'https://peerlist.com'
+    URL: 'https://peerlist.io'
     Username: harshtrivedi
     Icon-Class: fa-solid fa-p
     Color: '#18aa4a'
