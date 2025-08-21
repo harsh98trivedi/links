@@ -38,7 +38,7 @@ links:
 
     # LINKEDIN
   - Name: LinkedIn
-    URL: https://www.linkedin.com/
+    URL: https://www.linkedin.com
     Username: mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=harsh98trivedi
     Color: '#2867B2'
     Icon-Class: fab fa-linkedin-in
