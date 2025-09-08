@@ -261,6 +261,14 @@ links:
     Color: '#FE5000'
     Icon-Class: fab fa-soundcloud
 
+   # WithUPI
+  - Name: WithUPI
+    URL: 'https://withupi.com/'
+    Username: '@harsh'
+    Icon-Class: fas fa-mug-hot
+    Color: '#fcbf49'
+    Text_Color: '#23353f'
+
   #    # TIKTOK
   # - Name: TikTok
   #   URL: https://www.tiktok.com
