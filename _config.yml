@@ -265,7 +265,7 @@ links:
   - Name: WithUPI
     URL: 'https://withupi.com/'
     Username: '@harsh'
-    Icon-Class: fas fa-mug-hot
+    Icon-Class: fa-regular fa-thumbs-up
     Color: '#fcbf49'
     Text_Color: '#23353f'
 
