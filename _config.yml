@@ -70,6 +70,13 @@ links:
     Username: theharshtrivedi
     Color: '#0088cc'
     Icon-Class: fab fa-telegram-plane
+    
+    # DISCORD
+  - Name: Discord
+    URL: https://discord.com/users/
+    Username: %E0%A4%B9%E0%A4%B0%E0%A5%8D%E0%A4%B7#3527
+    Color: '#5865F2'
+    Icon-Class: fa-brands fa-discord
 
     # SNAPCHAT
   - Name: Snapchat
