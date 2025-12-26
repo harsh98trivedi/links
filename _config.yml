@@ -2,7 +2,7 @@
 name: Harsh Trivedi
 
 # YOUR BRAND/PERSONAL TAGLINE
-tagline: Howdy, I'm Harsh Trivedi. I'm a passionate Tech Lover from Kanpur, apart from that I'm a Graphic Designer and an OpenSource enthusiast Inspired by Imagination.
+tagline: Howdy, I'm Harsh Trivedi. I'm a passionate Tech Lover from Kanpur, apart from that I'm a Graphic Designer and an OpenSource enthusiast Inspired by Imagination
 
 # YOUR/BRAND IMAGE URL
 Image_URL: https://github.com/harsh98trivedi.png
@@ -74,7 +74,7 @@ links:
     # DISCORD
   - Name: Discord
     URL: https://discord.com/users/
-    Username: %E0%A4%B9%E0%A4%B0%E0%A5%8D%E0%A4%B7#3527
+    Username: Harsh#3527
     Color: '#5865F2'
     Icon-Class: fa-brands fa-discord
 
